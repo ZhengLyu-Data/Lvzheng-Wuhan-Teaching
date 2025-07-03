@@ -1,4 +1,4 @@
-## )verview
+## Overview
 A basic Python project for teaching data cleaning and visualization. This project uses a real-world medical appointment dataset from Kaggle to demonstrate how to process raw CSV data and create clear static visualizations using seaborn and matplotlib.
 
 ** 中文说明（项目简介）**
