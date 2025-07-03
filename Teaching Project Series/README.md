@@ -13,7 +13,7 @@ This is a collection of 5 lightweight, well-structured teaching projects designe
 | 02       | SQL Query + KPI Design           | SQL, Power BI / Tableau     | 商业场景中 KPI 指标的 SQL 查询与展示 |
 | 03       | Basic Recommender Demo           | pandas, scikit-learn        | 用户协同过滤推荐系统原理与可视化演示   |
 | 04       | Classification Model (Binary)    | pandas, scikit-learn        | 构建一个逻辑回归模型完成二分类预测任务  |
-| 05       | Amazon Review NLP Analysis       | TextBlob / VADER, Tableau   | 评论文本清洗与情感分析，结合图形展示结果 |
+| 05       | Amazon Review NLP Analysis       | Power BI or Tableau         | Tableau 仪表板设计与 KPI 展示教学 |
 
 ## Technical Highlights 技术亮点
 * Each project folder includes:
