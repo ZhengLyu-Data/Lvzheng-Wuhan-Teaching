@@ -4,7 +4,7 @@ A basic Python project for teaching data cleaning and visualization. This projec
  **中文简介**：
 本项目是一个教学型数据清洗与可视化示例，使用来自 Kaggle 的巴西的医院的医疗预约数据，展示如何利用 Python（pandas + seaborn + matplotlib）完成从原始数据处理到图表输出的完整流程。项目特别适合作为助教展示或初学者教学材料，支持 Google Colab 与本地运行。
 
-## 📊 Overview
+## Overview
 
 - **Goal:** Teach basic data cleaning and plotting using Python
 - **Tools:** pandas, seaborn, matplotlib
@@ -19,7 +19,7 @@ A basic Python project for teaching data cleaning and visualization. This projec
 
 The dataset contains medical appointment records, including demographic information and whether the patient showed up.
 
-## 📊 Data Visualization
+## Data Visualization
 
 Below are the final visualizations generated from the cleaned CSV:
 
@@ -32,7 +32,7 @@ Below are the final visualizations generated from the cleaned CSV:
 
 All charts are generated using `seaborn` and saved via `matplotlib.pyplot.savefig()`.
 
-## 🧱 Data Architecture
+## Data Architecture
 
 ![Pipeline Diagram](cleaning_and_plotting_pipeline_architecture.png)
 
@@ -58,8 +58,8 @@ Output images: 4 PNG files in the same folder
 
 ## Lessons Learned
 
-How to group and bin continuous variables using pd.cut()
+- How to group and bin continuous variables using pd.cut()
 
-How to compute custom aggregation (e.g., no-show rate) in seaborn
+- How to compute custom aggregation (e.g., no-show rate) in seaborn
 
-How to style and export professional-quality static charts using Python
+- How to style and export professional-quality static charts using Python
