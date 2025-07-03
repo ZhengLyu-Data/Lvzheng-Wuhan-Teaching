@@ -1,9 +1,9 @@
 ## Teaching Project Series 教学型项目系列总览
 
-This is a collection of 5 lightweight, well-structured teaching projects designed for TA applications, educational demonstrations, and student instruction. Each project focuses on a specific technical topic and can be run independently in a classroom or notebook setting.
+This is a collection of 5 lightweight, well-structured teaching projects designed to showcase communication skills, instructional thinking, and clarity in technical reporting. Each project demonstrates one core topic and can be run independently in a classroom or notebook environment.
 
 ** 中文说明 **：  
-本系列共包含 5 个面向教学与助教展示的小型项目，覆盖数据清洗、SQL 查询、推荐系统、分类建模与情感分析等主题，适合教学演示、课堂实验或个人学习使用。每个项目均可独立运行，注重结构清晰与学习效果。
+本系列教学型小项目旨在展示技术沟通能力、结构化表达思维与可教学性。每个项目聚焦一个核心知识点，均可独立运行，适合面试展示、入职教学准备或科研训练任务。
 
 ## Projects 项目
 
