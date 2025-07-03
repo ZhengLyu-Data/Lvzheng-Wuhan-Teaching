@@ -3,7 +3,7 @@
 This is a collection of 5 lightweight, well-structured teaching projects designed to showcase communication skills, instructional thinking, and clarity in technical reporting. Each project demonstrates one core topic and can be run independently in a classroom or notebook environment.
 
 ** 中文说明 **：  
-本系列教学型小项目旨在展示技术沟通能力、结构化表达思维与可教学性。每个项目聚焦一个核心知识点，均可独立运行，适合面试展示、入职教学准备或科研训练任务。
+本系列教学型5个小项目旨在展示技术沟通能力、结构化表达思维与可教学性。每个项目聚焦一个核心知识点，均可独立运行，适合面试展示、入职教学准备或科研训练任务。
 
 ## Projects 项目
 
