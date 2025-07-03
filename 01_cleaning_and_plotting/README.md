@@ -51,21 +51,30 @@ All charts are generated using `seaborn` and saved via `matplotlib.pyplot.savefi
 ## Prerequisites 环境依赖
   
 - Python 3.x
-  ** 中文说明 **：请确保你的本地或 Colab 环境为 Python 3 版本。
+  * 请确保你的本地或 Colab 环境为 Python 3 版本。
+    
 - Install the required libraries:
+  * 安装本项目所需的依赖库：
+    
 - pip install pandas matplotlib seaborn
+  * 依次安装 pandas（数据处理库）、matplotlib（图像绘制库）、seaborn（统计图表库）
 
 ## How to Run This Project 如何运行本项目
 
 - 1. Clean the raw dataset (if applicable)
 python clean_data.py
-
+* 中文说明：第一步，运行数据清洗脚本，生成干净的 CSV 文件
+  
 - 2. Generate visualizations
 python visualize.py
+* 第二步，运行可视化脚本，自动输出图像文件
+  
 Cleaned file: appointments_cleaned.csv
-
+* 清洗后的数据文件（CSV 格式）
+  
 Output images: 4 PNG files in the same folder
-
+* 4 张图像（PNG 格式）将保存在当前目录下
+  
 ## Lessons Learned 教学亮点
 
 - How to group and bin continuous variables using pd.cut()
