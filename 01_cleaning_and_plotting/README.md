@@ -1,8 +1,8 @@
 ## 01_cleaning_and_plotting_pipeline
 A basic Python project for teaching data cleaning and visualization. This project uses a real-world medical appointment dataset from Kaggle to demonstrate how to process raw CSV data and create clear static visualizations using seaborn and matplotlib.
 
- **中文简介**：
-本项目是一个教学型数据清洗与可视化示例，使用来自 Kaggle 的巴西的医院的医疗预约数据，展示如何利用 Python（pandas + seaborn + matplotlib）完成从原始数据处理到图表输出的完整流程。项目特别适合作为助教展示或初学者教学材料，支持 Google Colab 与本地运行。
+**中文简介**：
+- 本项目是一个教学型数据清洗与可视化示例，使用来自 Kaggle 的巴西的医院的医疗预约数据，展示如何利用 Python（pandas + seaborn + matplotlib）完成从原始数据处理到图表输出的完整流程。项目特别适合作为助教展示或初学者教学材料，支持 Google Colab 与本地运行。
 
 ## Overview
 
