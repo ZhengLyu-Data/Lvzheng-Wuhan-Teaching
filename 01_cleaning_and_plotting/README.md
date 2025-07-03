@@ -28,6 +28,7 @@ The dataset contains medical appointment records, including demographic informat
 ## Data Visualization 数据可视化
 
 Below are the final visualizations generated from the cleaned CSV:
+** 中文说明 **：以下是基于清洗后的数据文件（`appointments_cleaned.csv`）所生成的最终可视化图像：
 
 | Chart Title (EN)                  | 文件名                        | 中文说明                             |
 |----------------------------------|-------------------------------|--------------------------------------|
@@ -37,6 +38,8 @@ Below are the final visualizations generated from the cleaned CSV:
 | No-Show Rate by SMS Notification | `no_show_by_sms.png`          | 收到短信提醒 vs 爽约率关系           |
 
 All charts are generated using `seaborn` and saved via `matplotlib.pyplot.savefig()`.
+- ** 中文说明 **：  
+所有图像均由 Python 可视化库 `seaborn` 绘制，并通过 `matplotlib.pyplot.savefig()` 保存为静态 PNG 文件，适合教学展示与报告嵌入使用。
 
 ## Data Architecture 数据流程图
 
@@ -48,6 +51,7 @@ All charts are generated using `seaborn` and saved via `matplotlib.pyplot.savefi
 ## Prerequisites 环境依赖
   
 - Python 3.x
+  ** 中文说明 **：请确保你的本地或 Colab 环境为 Python 3 版本。
 - Install the required libraries:
 - pip install pandas matplotlib seaborn
 
