@@ -32,29 +32,7 @@ Cleaned Version | 清洗后文件：clean_flight_delays_teaching.csv
 
 Below are the final dashboard visualizations created in Power BI:中文说明：以下三张图表为基于 SQL 查询输出结果的 Power BI 数据抽象图：
 
-Chart Title (EN)
-
-图表类型
-
-中文说明
-
-Flight Volume by Carrier and Month
-
-100% Stacked Column Chart
-
-航空公司每月航班量占比分布
-
-Cancelled Flights vs. Airlines Count
-
-Line & Bar Combo Chart
-
-每月取消航班总数 vs 航空公司数量
-
-Weather Delay per Carrier
-
-Stacked Column Chart
-
-各航空公司与天气延迟情况
+![power bi dashboard image](flight_kpi_dashboard_pbix_png)
 
 ## Data Architecture 数据编排流程
 
