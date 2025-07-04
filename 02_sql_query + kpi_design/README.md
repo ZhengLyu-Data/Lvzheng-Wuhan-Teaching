@@ -2,7 +2,7 @@
 
 A lightweight SQL + Power BI project designed for teaching KPI query logic and dashboard design. It uses cleaned flight delay data to demonstrate how to write business-relevant SQL queries and turn them into interactive Power BI visuals.
 
-** 中文说明（项目简介）** 本项目是一个轻量级的教学型项目，采用 SQL 和 Power BI 组合。项目以航空环境延迟数据为根基，教学如何编写商业目标相关的 SQL 查询，并转换成可视化数据抽象与交互。
+** 中文说明 ** 本项目是一个轻量级的教学型项目，采用 SQL 和 Power BI 组合。项目以航空环境延迟数据为根基，教学如何编写商业目标相关的 SQL 查询，并转换成可视化数据抽象与交互。
 
 ## Project Summary 项目摘要
 
