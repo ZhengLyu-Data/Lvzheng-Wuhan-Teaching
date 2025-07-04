@@ -16,7 +16,7 @@ This is a collection of 5 lightweight, well-structured teaching projects designe
 
 ## Technical Highlights 技术亮点
 
-** Each project folder includes:
+Each project folder includes:
 
 ** 中文说明 ** 每个项目文件夹包含 
 
