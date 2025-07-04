@@ -32,7 +32,7 @@ Cleaned Version | 清洗后文件：clean_flight_delays_teaching.csv
 
 Below are the final dashboard visualizations created in Power BI:中文说明：以下三张图表为基于 SQL 查询输出结果的 Power BI 数据抽象图：
 
-![power bi dashboard image](flight_kpi_dashboard_pbix_png)
+![Power BI dashboard image](flight_kpi_dashboard_pbix.png)
 
 ## Data Architecture 数据编排流程
 
