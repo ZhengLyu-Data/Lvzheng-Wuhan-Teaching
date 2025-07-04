@@ -1,0 +1,6 @@
+Top movie recommendations for user 68:
+1. Movie ID: 837 | Estimated Score: 12.00
+2. Movie ID: 2761 | Estimated Score: 11.00
+3. Movie ID: 661 | Estimated Score: 11.00
+4. Movie ID: 6541 | Estimated Score: 10.50
+5. Movie ID: 1907 | Estimated Score: 10.50
