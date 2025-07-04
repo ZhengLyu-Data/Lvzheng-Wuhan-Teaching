@@ -26,7 +26,7 @@ The dataset contains user IDs, movie IDs, and corresponding ratings.
 
 ## Data Architecture 数据流程图
 
-![Pipeline Diagram](Movie_Recommender_Pipeline.png)  
+![Pipeline Diagram](movie_recommender_demo_pipeline.png)  
 
 CSV 原始数据 → Python 清洗 → 建立评分矩阵 → 用户相似度计算 → 推荐输出
 
