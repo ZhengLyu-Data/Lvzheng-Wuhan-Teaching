@@ -2,7 +2,7 @@
 
 A basic Python project demonstrating the logic of user-based collaborative filtering. Using a subset of the famous MovieLens dataset, this project simulates how recommendation engines identify similar users and suggest new content.
 
-**中文说明（项目简介）**  本项目是一个基于用户协同过滤推荐算法的教学示例，使用 MovieLens 的评分数据演示如何通过 Python 和 scikit-learn 找到相似用户并生成推荐结果。项目适合推荐系统教学入门或助教展示使用。
+** 中文说明 **  本项目是一个基于用户协同过滤推荐算法的教学示例，使用 MovieLens 的评分数据演示如何通过 Python 和 scikit-learn 找到相似用户并生成推荐结果。项目适合推荐系统教学入门或助教展示使用。
 
 ## Project Summary 项目摘要
 
@@ -68,6 +68,10 @@ Outputs top 3 similar users and top 5 recommended movies
 Final results are saved to `recommendation_output.txt` and downloaded
 
 ** 中文说明 ** 最终推荐结果保存为 recommendation_output.txt 文件，并自动下载到本地
+
+This project can be executed both on Google Colab and local Jupyter Notebook.
+
+** 中文说明 ** 所有脚本支持在 Google Colab 中直接运行，同时也兼容本地 Jupyter Notebook 环境。只需确保 Python 3.x 与相关库已正确安装，即可在本地复现全部流程与输出结果。
 
 ## Lessons Learned 教学亮点
 
