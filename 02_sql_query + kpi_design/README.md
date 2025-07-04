@@ -44,10 +44,10 @@ The full script is available in sql_query_kpi.sql. Below is one example:
 
 ** 中文说明 ** 完整 SQL 脚本请参见 sql_query_kpi.sql 文件，以下是其中一个示例查询：
 
-SELECT month, SUM(arr_flights) AS total_arrivals
-FROM flight_delays
-GROUP BY month
-ORDER BY month ASC;
+- SELECT month, SUM(arr_flights) AS total_arrivals
+- FROM flight_delays
+- GROUP BY month
+- ORDER BY month ASC;
 
 ## Prerequisites 环境依赖
 
