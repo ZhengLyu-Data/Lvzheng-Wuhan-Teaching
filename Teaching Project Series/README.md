@@ -17,7 +17,18 @@ This is a collection of 5 lightweight, well-structured teaching projects designe
 ## Technical Highlights 技术亮点
 * Each project folder includes:
 
-- 📄 A README with bilingual explanation  
-- 🧪 Sample scripts ready for demo  
-- 📊 Visualizations (PNG or Tableau)  
-- 🧰 Lightweight dependencies (Colab-ready)
+A README with bilingual explanation
+
+** 中文说明 ** 每个项目文件夹包含 
+
+Sample scripts ready for demo  
+
+** 中文说明 ** 可直接演示的示例脚本
+
+Visualizations (Power BI or Tableau) 
+
+** 中文说明 ** 可视化成果（Power BI 或 Tableau 文件）
+
+Lightweight dependencies (Colab-ready)
+
+** 中文说明 ** 轻量依赖配置（支持 Google Colab 快速运行）
