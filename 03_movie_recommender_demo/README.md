@@ -28,6 +28,8 @@ The dataset contains user IDs, movie IDs, and corresponding ratings.
 
 ![Pipeline Diagram](Movie_Recommender_Pipeline.png)  
 
+CSV 原始数据 → Python 清洗 → 建立评分矩阵 → 用户相似度计算 → 推荐输出
+
 ## Prerequisites 环境依赖
 
 - Python 3.x
