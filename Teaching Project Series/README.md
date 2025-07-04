@@ -11,7 +11,7 @@ This is a collection of 5 lightweight, well-structured teaching projects designe
 |----------------|----------------------------|-----------------------------|---------------------------------|
 | 01       | Cleaning & Plotting Pipeline     | pandas, seaborn             | 基础数据清洗与静态图像可视化教学      |
 | 02       | SQL Query + KPI Design           | SQL, Power BI               | 商业场景中 KPI 指标的 SQL 查询与展示 |
-| 03       | 03_movie_recommender_demo        | pandas, scikit-learn        | 用户协同过滤推荐系统原理与可视化演示   |
+| 03       | movie_recommender_demo           | pandas, scikit-learn        | 用户协同过滤推荐系统原理与可视化演示   |
 | 04       | Classification Model (Binary)    | pandas, statsmodels         | 构建一个逻辑回归模型完成二分类预测任务 |
 | 05       | Dashboard Reporting Demo         | Tableau                     | Tableau 仪表板设计与 KPI 展示教学   |
 
