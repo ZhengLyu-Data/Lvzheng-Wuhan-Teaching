@@ -33,8 +33,15 @@ CSV 原始数据 → Python 清洗 → 建立评分矩阵 → 用户相似度计
 ## Prerequisites 环境依赖
 
 - Python 3.x
+  Please make sure your local or Colab environment is running Python 3.
+  
+** 中文说明 ** 请确保你的本地或 Google Colab 环境为 Python 3 版本。
+
 - Install the required libraries:  
   pip install pandas scikit-learn
+
+** 中文说明 ** 依次安装本项目所需的 Python 库：
+pandas（用于数据处理），scikit-learn（用于相似度计算与推荐算法实现）。
 
 ## How to Run This Project 如何运行本项目
 
@@ -46,13 +53,20 @@ CSV 原始数据 → Python 清洗 → 建立评分矩阵 → 用户相似度计
    python clean_data.py
    ```  
    - This produces a cleaned version with pivot table
+  
+  ** 中文说明 ** 该步骤将原始评分数据转化为透视表形式，为协同过滤推荐算法提供输入格式。
 
 3. Run the recommender engine:  
    ```bash
    python recommder_demo.py
    ```  
-   - Outputs top 3 similar users and top 5 recommended movies  
+   - Outputs top 3 similar users and top 5 recommended movies
+
+** 中文说明 ** 输出与目标用户最相似的 3 位用户，以及推荐的前 5 部电影
+
    - Final results are saved to `recommendation_output.txt` and downloaded
+
+** 中文说明 ** 最终推荐结果保存为 recommendation_output.txt 文件，并自动下载到本地
 
 ## Lessons Learned 教学亮点
 
