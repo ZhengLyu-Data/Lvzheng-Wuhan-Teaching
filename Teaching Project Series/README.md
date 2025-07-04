@@ -15,11 +15,14 @@ This is a collection of 5 lightweight, well-structured teaching projects designe
 | 05       | Dashboard Reporting Demo         | Tableau                     | Tableau 仪表板设计与 KPI 展示教学   |
 
 ## Technical Highlights 技术亮点
-* Each project folder includes:
+
+** Each project folder includes:
+
+** 中文说明 ** 每个项目文件夹包含 
 
 A README with bilingual explanation
 
-** 中文说明 ** 每个项目文件夹包含 
+** 中文说明 ** 含中英文说明的项目介绍文件（README）
 
 Sample scripts ready for demo  
 
