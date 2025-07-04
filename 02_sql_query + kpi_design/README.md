@@ -6,21 +6,21 @@ A lightweight SQL + Power BI project designed for teaching KPI query logic and d
 
 ## Project Summary 项目摘要
 
-** Goal|目标：** Teach SQL-based KPI query and dashboard reporting logicSQL 教学主题，培养商业指标设计与数据抽象能力
+** Goal|目标 ** Teach SQL-based KPI query and dashboard reporting logicSQL 教学主题，培养商业指标设计与数据抽象能力
 
-** Tools|工具：** SQLite, Power BI
+** Tools|工具 ** SQLite, Power BI
 
-** Output|输出：** SQL scripts and 3 Power BI visualizations
+** Output|输出 ** SQL scripts and 3 Power BI visualizations
 
-** Audience|面向人群：** Data learners or classroom teaching demonstrations
+** Audience|面向人群 ** Data learners or classroom teaching demonstrations
 
 ## Dataset 数据集说明
 
-** Source|数据来源：** Kaggle 网站 — U.S. Flight Delay Causes
+** Source|数据来源 ** Kaggle 网站 — U.S. Flight Delay Causes
 
-** Original File|原始文件：** Airline_Delay_Cause.csv
+** Original File|原始文件 ** Airline_Delay_Cause.csv
 
-** Cleaned Version|清洗后文件：** clean_flight_delays_teaching.csv
+** Cleaned Version|清洗后文件 ** clean_flight_delays_teaching.csv
 
 数据包含内容：有关美国航空公司延迟原因、每月航班量、时间分布和各类指标。
 
