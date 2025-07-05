@@ -49,8 +49,7 @@ It includes the following three visualizations:
 |-------|------------------------------|-------------|----------|
 | 1     | Average Daily Rate by Hotel Type| A bar chart comparing the average room price of City and Resort hotels | 比较城市与度假酒店的平均房价，用于教学财务类 KPI |
 | 2     | Monthly Booking Volume by Status| A stacked bar chart showing the number of reservations by status each month | 展示每月预订数量及状态分布（入住、取消、未到） |
-| 3     | Cancellation Rate by Lead Time Bucket| A bar chart showing how cancellation rates change by booking lead time | 展示不同提前预订时长下的取消率变化，适合讲解风险控制逻辑
- |
+| 3     | Cancellation Rate by Lead Time Bucket| A bar chart showing how cancellation rates change by booking lead time | 展示不同提前预订时长下的取消率变化，适合讲解风险控制逻辑|
 
 All charts are part of a single Tableau dashboard with aligned layout, colors, and KPI emphasis.
 
