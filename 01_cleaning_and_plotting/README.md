@@ -74,14 +74,9 @@ All charts are generated using `seaborn` and saved via `matplotlib.pyplot.savefi
   
 ## Lessons Learned 教学亮点
 
-How to group and bin continuous variables using pd.cut()
-
-** 如何对连续变量进行分组
-   
-How to compute custom aggregation (e.g., no-show rate) in seaborn
-
-** 如何自定义聚合计算（如爽约率）
-   
-How to style and export professional-quality static charts using Python
-
-** 如何输出教学级别的高质量静态图像
+- How to group and bin continuous variables using pd.cut()
+  * 如何对连续变量进行分组   
+- How to compute custom aggregation (e.g., no-show rate) in seaborn
+  * 如何自定义聚合计算（如爽约率）   
+- How to style and export professional-quality static charts using Python
+  * 如何输出教学级别的高质量静态图像
