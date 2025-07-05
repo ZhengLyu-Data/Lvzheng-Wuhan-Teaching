@@ -37,9 +37,11 @@ The dataset contains hotel booking information from city and resort hotels, incl
 
 ** 中文说明 ** 数据集包括城市与度假型酒店的预订记录，涵盖入住时间、提前预订天数、客户类型、取消状态与房价等关键变量。
 
-## Tableau Dashboard 仪表板结构
+## Tableau Dashboard 数据可视化
 
 The dashboard is named: **hotel_booking_dashboard**
+
+![tableau dashboard image](ecommerce_behavior_dashboard.twbx.png)
 
 It includes the following three visualizations:
 
