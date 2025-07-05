@@ -48,7 +48,10 @@ pandas（用于数据处理），scikit-learn（用于相似度计算与推荐�
 1. Upload the dataset and scripts into your Colab or local environment  
    上传原始数据与 Python 脚本至 Colab 或本地环境
 
-2. Run the cleaning script:  
+2. Run the cleaning script: python clean_data.py
+
+   运行数据清洗脚本：python clean_data.py 该脚本将读取原始数据，创建二分类标签，并生成清洗后的数据文件 wine_quality_cleaned.csv。
+   
    ```bash
    python clean_data.py
    ```  
@@ -56,7 +59,10 @@ This produces a cleaned version with pivot table
   
 ** 中文说明 ** 该步骤将原始评分数据转化为透视表形式，为协同过滤推荐算法提供输入格式。
 
-3. Run the recommender engine:  
+3. Run the recommender engine: python recommder_demo.py
+
+   运行推荐引擎脚本：python recommender_demo.py 该脚本将基于用户评分矩阵计算相似用户，并输出推荐的电影列表与相似度指标。
+   
    ```bash
    python recommder_demo.py
    ```
