@@ -16,28 +16,17 @@ This is a collection of 5 lightweight, well-structured teaching projects designe
 
 ## Technical Highlights 技术亮点
 
-Each project folder includes:
-
-A README with bilingual explanation  
-
-** 中文说明 ** 含中英文说明的项目介绍文件（README）
-
-Sample scripts ready for demo  
-
-** 中文说明 ** 可直接演示的示例脚本
-
-Visualizations (Power BI or Tableau)  
-
-** 中文说明 ** 可视化成果（Power BI 或 Tableau 文件）
-
-Lightweight dependencies (Colab-ready)  
-
-** 中文说明 ** 轻量依赖配置（支持 Google Colab 快速运行）
-
-Real datasets from Kaggle used in all cases  
-
-** 中文说明 ** 所有项目均使用 Kaggle 真实世界数据
-
-This project can be executed both on Google Colab and local Jupyter Notebook.
-
-** 中文说明 ** 所有脚本支持在 Google Colab 中直接运行，同时也兼容本地 Jupyter Notebook 环境。只需确保 Python 3.x 与相关库已正确安装，即可在本地复现全部流程与输出结果。
+- Each project folder includes:
+  * 每个教学项目包含以下亮点
+- A README with bilingual explanation  
+  * 含中英文说明的项目介绍文件（README）
+- Sample scripts ready for demo  
+  * 可直接演示的示例脚本
+- Visualizations (Power BI or Tableau)  
+  * 可视化成果（Power BI 或 Tableau 文件）
+- Lightweight dependencies (Colab-ready)  
+  * 轻量依赖配置（支持 Google Colab 快速运行）
+- Real datasets from Kaggle used in all cases  
+  * 所有项目均使用 Kaggle 真实世界数据
+- This project can be executed both on Google Colab and local Jupyter Notebook.
+  * 所有脚本支持在 Google Colab 中直接运行，同时也兼容本地 Jupyter Notebook 环境。只需确保 Python 3.x 与相关库已正确安装，即可在本地复现全部流程与输出结果。
