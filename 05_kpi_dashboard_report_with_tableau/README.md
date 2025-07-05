@@ -41,7 +41,7 @@ The dataset contains hotel booking information from city and resort hotels, incl
 
 The dashboard is named: **hotel_booking_dashboard**
 
-![tableau dashboard image](ecommerce_behavior_dashboard.twbx.png)
+![tableau dashboard image](hotel_booking_dashboard.twbx.png)
 
 It includes the following three visualizations:
 
