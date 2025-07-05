@@ -6,8 +6,7 @@ A basic Python project demonstrating how to build a binary classification model 
 
 ## Project Summary 项目摘要
 
-** Goal | 目标 **  
-Teach binary classification using logistic regression with interpretable model output  
+** Goal | 目标 **  Teach binary classification using logistic regression with interpretable model output  
 通过逻辑回归模型讲解二分类建模的基本流程与模型解释方法  
 
 ** Tools | 工具 **  pandas, statsmodels, matplotlib, seaborn, scikit-learn  
@@ -61,46 +60,53 @@ pip install pandas statsmodels
 
 ## How to Run This Project 如何运行本项目
 
-1. Upload the dataset and scripts into your environment
-上传原始数据与 Python 脚本至 Colab 或本地环境
+1. Upload the dataset and two scripts into your environment
+上传原始数据与 两个 Python 脚本至 Colab 或本地环境
 
 2. Run the cleaning script: python clean_model.py
+
+   运行数据清洗脚本：python clean_data.py 该脚本将生成清洗后的数据文件：wine_quality_cleaned.csv，用于后续模型训练。
+    
    ```bash
    python clean_data.py
    ```
 This will generate a cleaned file: wine_quality_cleaned.csv
 
+** 中文说明 ** 该操作将生成一个清洗后的数据文件：wine_quality_cleaned.csv。
+
 3. Run the classification model: python classification_model.py
+   
+   运行分类模型脚本：python classification_model.py 该脚本将训练逻辑回归模型，并输出模型摘要、分类评估指标和混淆矩阵图。
+   
    ```bash
    classification_model.py
    ```
 Output show the Confusion Matrix in statsmodels
+
+** 中文说明 ** 输出结果中包含由 statsmodels 模型产生的混淆矩阵。
    
 This will output model summary, classification report, and confusion matrix plot
 
-** 中文说明 **
-数据清洗脚本会创建一个二分类标签，并保存为清洗后的数据文件。
+** 中文说明 ** 数据清洗脚本会创建一个二分类标签，并保存为清洗后的数据文件。
 
 The model script will output the statsmodels summary, classification performance metrics, and save a confusion matrix plot as wine_classification_plot.png.
 
-** 中文说明 **
-模型脚本将输出 statsmodels 模型摘要、分类性能指标，并保存混淆矩阵图像 wine_classification_plot.png
+** 中文说明 ** 模型脚本将输出 statsmodels 模型摘要、分类性能指标，并保存混淆矩阵图像 wine_classification_plot.png
 
 All scripts work in Google Colab and local Jupyter environments.
 
-** 中文说明 **
-所有脚本支持在 Google Colab 中运行，也兼容本地 Jupyter Notebook，只需确保环境配置正确即可完整复现项目流程。
+** 中文说明 ** 所有脚本支持在 Google Colab 中运行，也兼容本地 Jupyter Notebook，只需确保环境配置正确即可完整复现项目流程。
 
 ## Lessons Learned 教学亮点
 
 How to convert numerical labels into binary classification targets
-中文说明： 如何将评分数据转化为二分类标签
+** 中文说明：** 如何将评分数据转化为二分类标签
 
 How to train interpretable logistic regression using statsmodels
-中文说明： 如何使用 statsmodels 训练可解释的逻辑回归模型
+** 中文说明：** 如何使用 statsmodels 训练可解释的逻辑回归模型
 
 How to visualize model results with confusion matrix and classification report
-中文说明： 如何使用混淆矩阵和分类报告进行模型评估与可视化
+** 中文说明：** 如何使用混淆矩阵和分类报告进行模型评估与可视化
 
 How to structure a teaching-oriented classification project
-中文说明： 如何构建一个适合教学演示的数据建模项目结构
+** 中文说明：** 如何构建一个适合教学演示的数据建模项目结构
