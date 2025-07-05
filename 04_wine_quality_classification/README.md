@@ -71,9 +71,9 @@ pip install pandas statsmodels
 This will generate a cleaned file: wine_quality_cleaned.csv
 
 3. Run the classification model: python classification_model.py
-  ```bash
-  classification_model.py
-  ```
+   ```bash
+   classification_model.py
+   ```
 Output show the Confusion Matrix in statsmodels
    
 This will output model summary, classification report, and confusion matrix plot
