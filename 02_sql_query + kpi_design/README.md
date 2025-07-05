@@ -61,15 +61,15 @@ Power BI Desktop or Power BI Service
 
 ## How to Run This Project 如何运行本项目
 
-Load clean_flight_delays_teaching.csv into a SQLite database (or Excel/Power BI directly)
+1. Load clean_flight_delays_teaching.csv into a SQLite database (or Excel/Power BI directly)
 
 ** 中文说明 ** 将 clean_flight_delays_teaching.csv 导入到 SQLite 数据库中（也可直接在 Excel 或 Power BI 中加载此 CSV 文件）
 
-Use sql_query_kpi.sql to perform KPI queries
+2. Use sql_query_kpi.sql to perform KPI queries
 
 ** 中文说明 ** 使用提供的 SQL 脚本 sql_query_kpi.sql 执行关键绩效指标（KPI）相关查询
 
-Visualize outputs in Power BI using 3 suggested chart structures
+3. Visualize outputs in Power BI using 3 suggested chart structures
 
 ** 中文说明 ** 在 Power BI 中基于 SQL 查询结果构建三个推荐图表，完成 KPI 指标的可视化展示
 
