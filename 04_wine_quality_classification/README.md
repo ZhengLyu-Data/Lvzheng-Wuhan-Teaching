@@ -21,16 +21,11 @@ A basic Python project demonstrating how to build a binary classification model 
 ## Dataset 数据集说明
 
 ** Source | 来源 **  [Wine Quality Dataset – UCI Repository / Kaggle](https://www.kaggle.com/datasets/rajyellow46/wine-quality)
-
 ** Original File | 原始文件 **  `wine_quality_classification_raw.csv`  
-
 ** Cleaned Version | 清洗后文件 **  `wine_quality_cleaned.csv`  
-
-The dataset contains physicochemical indicators and quality scores of wines.  
-A binary label is created: wines rated ≥ 6 are labeled as "good" (1), otherwise "average" (0).
-
-** 中文说明 **  
-数据集包含葡萄酒的理化指标与质量评分。我们将评分 ≥ 6 的样本标为优质酒（1），其余为普通酒（0），以构建二分类任务。
+- The dataset contains physicochemical indicators and quality scores of wines.  
+  A binary label is created: wines rated ≥ 6 are labeled as "good" (1), otherwise "average" (0).
+  * 数据集包含葡萄酒的理化指标与质量评分。我们将评分 ≥ 6 的样本标为优质酒（1），其余为普通酒（0），以构建二分类任务。
 
 ## Data Visualization 数据可视化
 
