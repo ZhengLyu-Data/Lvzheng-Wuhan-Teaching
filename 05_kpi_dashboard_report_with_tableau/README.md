@@ -57,7 +57,7 @@ All charts are part of a single Tableau dashboard with aligned layout, colors, a
 
 ## Data Architecture 数据流程图
 
-![Data Architecture](supply_chain_data_pipeline_architecture.png)
+![Data Architecture](kpi_dashboard_report_with_tableau_pipeline.png)
 
 Raw CSV → Data Cleaning (pandas) → Tableau Dashboard → 3 KPI Charts
 
