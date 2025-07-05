@@ -51,38 +51,28 @@ The full script is available in sql_query_kpi.sql. Below is one example:
 
 ## Prerequisites 环境依赖
 
-SQLite3 (any SQL engine with CSV import ability)
+- SQLite3 (any SQL engine with CSV import ability)
+  * SQLite3：轻量级关系型数据库系统，适合快速加载和查询本地 CSV 数据；也可替代为任何支持 CSV 导入的 SQL 引擎（如 PostgreSQL、MySQL）
 
-** 中文说明 ** SQLite3：轻量级关系型数据库系统，适合快速加载和查询本地 CSV 数据；也可替代为任何支持 CSV 导入的 SQL 引擎（如 PostgreSQL、MySQL）
-
-Power BI Desktop or Power BI Service
-
-** 中文说明 ** 微软推出的数据可视化与商业智能工具，支持构建交互式仪表板，适用于教学演示与实际业务场景。
+- Power BI Desktop or Power BI Service
+  * 微软推出的数据可视化与商业智能工具，支持构建交互式仪表板，适用于教学演示与实际业务场景。
 
 ## How to Run This Project 如何运行本项目
 
-1. Load clean_flight_delays_teaching.csv into a SQLite database (or Excel/Power BI directly)
+- Load clean_flight_delays_teaching.csv into a SQLite database (or Excel/Power BI directly)
+  * 将 clean_flight_delays_teaching.csv 导入到 SQLite 数据库中（也可直接在 Excel 或 Power BI 中加载此 CSV 文件）
 
-** 中文说明 ** 将 clean_flight_delays_teaching.csv 导入到 SQLite 数据库中（也可直接在 Excel 或 Power BI 中加载此 CSV 文件）
+- Use sql_query_kpi.sql to perform KPI queries
+  * 使用提供的 SQL 脚本 sql_query_kpi.sql 执行关键绩效指标（KPI）相关查询
 
-2. Use sql_query_kpi.sql to perform KPI queries
-
-** 中文说明 ** 使用提供的 SQL 脚本 sql_query_kpi.sql 执行关键绩效指标（KPI）相关查询
-
-3. Visualize outputs in Power BI using 3 suggested chart structures
-
-** 中文说明 ** 在 Power BI 中基于 SQL 查询结果构建三个推荐图表，完成 KPI 指标的可视化展示
+- Visualize outputs in Power BI using 3 suggested chart structures
+  * 在 Power BI 中基于 SQL 查询结果构建三个推荐图表，完成 KPI 指标的可视化展示
 
 ## Lessons Learned 教学亮点
 
-How to aggregate monthly KPIs from raw airline data
-
-** 中文说明 ** 如何从原始航空数据中聚合出月度关键绩效指标（KPI）
-
-How to use stacked column and combo charts effectively in Power BI
-
-** 中文说明 ** 如何在 Power BI 中有效使用堆叠柱状图与组合图（如双 Y 轴图表）
-
-How to design visual layouts for comparing delay reasons and time trends
-
-** 中文说明 ** 如何设计图表布局以对比延误原因与时间变化趋势
+- How to aggregate monthly KPIs from raw airline data
+  * 如何从原始航空数据中聚合出月度关键绩效指标（KPI）
+- How to use stacked column and combo charts effectively in Power BI
+  * 如何在 Power BI 中有效使用堆叠柱状图与组合图（如双 Y 轴图表）
+- How to design visual layouts for comparing delay reasons and time trends
+  * 如何设计图表布局以对比延误原因与时间变化趋势
