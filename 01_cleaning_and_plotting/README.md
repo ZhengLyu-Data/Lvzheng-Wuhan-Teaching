@@ -72,7 +72,7 @@ python clean_data.py
 2. Generate visualizations
 python visualize.py
 
-** 第二步 ** 运行可视化脚本，自动输出图像文件
+** 中文说明 ** 第二步，运行可视化脚本，自动输出图像文件
   
 Cleaned file: appointments_cleaned.csv
 
