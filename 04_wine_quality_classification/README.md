@@ -2,10 +2,7 @@
 
 A basic Python project demonstrating how to build a binary classification model using logistic regression. This project uses a wine quality dataset to show how interpretable models can be used in teaching binary classification logic.
 
-** 中文说明 **  
-本项目是一个逻辑回归二分类教学示例，使用葡萄酒质量评分数据构建模型，演示如何用 Python 和 statsmodels 实现一个结构清晰、便于教学讲解的分类流程。
-
----
+** 中文说明 **  本项目是一个逻辑回归二分类教学示例，使用葡萄酒质量评分数据构建模型，演示如何用 Python 和 statsmodels 实现一个结构清晰、便于教学讲解的分类流程。
 
 ## Project Summary 项目摘要
 
@@ -13,38 +10,28 @@ A basic Python project demonstrating how to build a binary classification model 
 Teach binary classification using logistic regression with interpretable model output  
 通过逻辑回归模型讲解二分类建模的基本流程与模型解释方法  
 
-** Tools | 工具 **  
-pandas, statsmodels, matplotlib, seaborn, scikit-learn  
+** Tools | 工具 **  pandas, statsmodels, matplotlib, seaborn, scikit-learn  
 使用 Python 进行数据处理、模型训练与可视化分析  
 
-** Output | 输出 **  
-Confusion matrix plot, classification report, and model summary  
+** Output | 输出 **  Confusion matrix plot, classification report, and model summary  
 输出混淆矩阵图、分类评估报告与 statsmodels 模型摘要  
 
-** Audience | 受众 **  
-Students or instructors learning classification modeling  
+** Audience | 受众 **  Students or instructors learning classification modeling  
 面向学习机器学习基础或逻辑回归建模的学生与教学人员
-
----
 
 ## Dataset 数据集说明
 
-** Source | 来源 **  
-[Wine Quality Dataset – UCI Repository / Kaggle](https://www.kaggle.com/datasets/rajyellow46/wine-quality)
+** Source | 来源 **  [Wine Quality Dataset – UCI Repository / Kaggle](https://www.kaggle.com/datasets/rajyellow46/wine-quality)
 
-** Original File | 原始文件 **  
-`wine_quality_classification_raw.csv`  
+** Original File | 原始文件 **  `wine_quality_classification_raw.csv`  
 
-** Cleaned Version | 清洗后文件 **  
-`wine_quality_cleaned.csv`  
+** Cleaned Version | 清洗后文件 **  `wine_quality_cleaned.csv`  
 
 The dataset contains physicochemical indicators and quality scores of wines.  
 A binary label is created: wines rated ≥ 6 are labeled as "good" (1), otherwise "average" (0).
 
 ** 中文说明 **  
 数据集包含葡萄酒的理化指标与质量评分。我们将评分 ≥ 6 的样本标为优质酒（1），其余为普通酒（0），以构建二分类任务。
-
----
 
 ## Data Architecture 数据流程图
 
@@ -65,28 +52,34 @@ Make sure your local or Colab environment runs Python 3.
 请确保你的本地或 Google Colab 环境为 Python 3 版本。
 
 Install required libraries:
-```bash
-pip install pandas statsmodels matplotlib seaborn scikit-learn
+pip install pandas statsmodels 
+
 ** 中文说明 **
 请安装以下 Python 库：用于数据处理（pandas）、逻辑回归建模（statsmodels）、可视化（matplotlib & seaborn）和评估指标（scikit-learn）。
 
 ## How to Run This Project 如何运行本项目
 
-Upload the dataset and scripts into your environment
+1. Upload the dataset and scripts into your environment
 上传原始数据与 Python 脚本至 Colab 或本地环境
 
-Run the cleaning script:
-
-python clean_data.py
+2. Run the cleaning script:
+   ```bash
+   python clean_data.py
+   ```
 This will generate a cleaned file: wine_quality_cleaned.csv
+
+3. Run the classification model: python classification_model.py
+  ```bash
+  classification_model.py
+  ```
+Output show the Confusion Matrix in statsmodels
+   
+This will output model summary, classification report, and confusion matrix plot
 
 ** 中文说明 **
 数据清洗脚本会创建一个二分类标签，并保存为清洗后的数据文件。
 
-Run the classification model:
-
-python classification_model.py
-This will output model summary, classification report, and confusion matrix plot
+The model script will output the statsmodels summary, classification performance metrics, and save a confusion matrix plot as wine_classification_plot.png.
 
 ** 中文说明 **
 模型脚本将输出 statsmodels 模型摘要、分类性能指标，并保存混淆矩阵图像 wine_classification_plot.png
