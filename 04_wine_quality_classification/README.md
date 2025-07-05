@@ -33,6 +33,10 @@ A binary label is created: wines rated ≥ 6 are labeled as "good" (1), otherwis
 ** 中文说明 **  
 数据集包含葡萄酒的理化指标与质量评分。我们将评分 ≥ 6 的样本标为优质酒（1），其余为普通酒（0），以构建二分类任务。
 
+## Data Visualization 数据可视化
+
+![Confusion Matrix](wine_classification_plot.png)
+
 ## Data Architecture 数据流程图
 
 ![Pipeline Diagram](wine_quality_classification_pipeline.png)
