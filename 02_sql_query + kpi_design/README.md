@@ -53,7 +53,6 @@ The full script is available in sql_query_kpi.sql. Below is one example:
 
 - SQLite3 (any SQL engine with CSV import ability)
   * SQLite3：轻量级关系型数据库系统，适合快速加载和查询本地 CSV 数据；也可替代为任何支持 CSV 导入的 SQL 引擎（如 PostgreSQL、MySQL）
-
 - Power BI Desktop or Power BI Service
   * 微软推出的数据可视化与商业智能工具，支持构建交互式仪表板，适用于教学演示与实际业务场景。
 
@@ -61,10 +60,8 @@ The full script is available in sql_query_kpi.sql. Below is one example:
 
 - Load clean_flight_delays_teaching.csv into a SQLite database (or Excel/Power BI directly)
   * 将 clean_flight_delays_teaching.csv 导入到 SQLite 数据库中（也可直接在 Excel 或 Power BI 中加载此 CSV 文件）
-
 - Use sql_query_kpi.sql to perform KPI queries
   * 使用提供的 SQL 脚本 sql_query_kpi.sql 执行关键绩效指标（KPI）相关查询
-
 - Visualize outputs in Power BI using 3 suggested chart structures
   * 在 Power BI 中基于 SQL 查询结果构建三个推荐图表，完成 KPI 指标的可视化展示
 
