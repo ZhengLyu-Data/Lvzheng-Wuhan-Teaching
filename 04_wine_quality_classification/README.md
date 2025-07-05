@@ -46,15 +46,13 @@ Raw CSV → Data Cleaning → Logistic Regression → Evaluation → Confusion M
 
 ## Prerequisites 环境依赖
 
-Python 3.x  
-Make sure your local or Colab environment runs Python 3.
+- Python 3.x  
+  Make sure your local or Colab environment runs Python 3.
+  * 请确保你的本地或 Google Colab 环境为 Python 3 版本。
 
-** 中文说明 **  请确保你的本地或 Google Colab 环境为 Python 3 版本。
-
-Install required libraries:
-pip install pandas statsmodels 
-
-** 中文说明 ** 请安装以下 Python 库：用于数据处理（pandas）、逻辑回归建模（statsmodels）、可视化（matplotlib & seaborn）和评估指标（scikit-learn）。
+- Install required libraries:
+  pip install pandas statsmodels 
+  * 请安装以下 Python 库：用于数据处理（pandas）、逻辑回归建模（statsmodels）、可视化（matplotlib & seaborn）和评估指标（scikit-learn）。
 
 ## How to Run This Project 如何运行本项目
 
