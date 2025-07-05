@@ -2,7 +2,7 @@
 
 A lightweight Tableau-based teaching project demonstrating how to design KPI dashboards using real hotel booking data. This project helps explain how to use visual analytics to convey operational trends, financial insights, and user behaviors.
 
-** 中文说明 ** 本项目是一个基于 Tableau 的轻量级教学示例，使用酒店预订数据构建三个典型图表，演示如何通过可视化分析呈现业务趋势、用户行为与关键指标，适用于教学场景与面试展示。
+** 中文说明 (项目简介) ** 本项目是一个基于 Tableau 的轻量级教学示例，使用酒店预订数据构建三个典型图表，演示如何通过可视化分析呈现业务趋势、用户行为与关键指标，适用于教学场景与面试展示。
 
 ## Project Summary 项目摘要
 
