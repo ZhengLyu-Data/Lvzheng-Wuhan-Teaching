@@ -35,7 +35,7 @@ A binary label is created: wines rated ≥ 6 are labeled as "good" (1), otherwis
 
 ## Data Architecture 数据流程图
 
-![Pipeline Diagram](classification_model_architecture.pdf)
+![Pipeline Diagram](wine_quality_classification_pipeline.png)
 
 Raw CSV → Data Cleaning → Logistic Regression → Evaluation → Confusion Matrix & Report
 
