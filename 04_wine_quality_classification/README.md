@@ -41,8 +41,6 @@ Raw CSV → Data Cleaning → Logistic Regression → Evaluation → Confusion M
 
 原始数据 → 数据清洗 → 构建逻辑回归模型 → 评估性能 → 混淆矩阵与指标输出
 
----
-
 ## Prerequisites 环境依赖
 
 Python 3.x  
