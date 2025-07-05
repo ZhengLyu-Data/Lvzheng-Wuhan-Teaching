@@ -64,7 +64,7 @@ pip install pandas statsmodels
 1. Upload the dataset and scripts into your environment
 上传原始数据与 Python 脚本至 Colab 或本地环境
 
-2. Run the cleaning script:
+2. Run the cleaning script: python clean_model.py
    ```bash
    python clean_data.py
    ```
