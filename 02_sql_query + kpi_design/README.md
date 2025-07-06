@@ -17,9 +17,7 @@ A lightweight SQL + Power BI project designed for teaching KPI query logic and d
 - ** Original File|原始文件 ** Airline_Delay_Cause.csv
 - ** Cleaned Version|清洗后文件 ** clean_flight_delays_teaching.csv
 
-数据包含内容：有关美国航空公司延迟原因、每月航班量、时间分布和各类指标。
-
-** 中文说明 ** 适合教学 SQL 小项目，包含多个统计时点和 KPI 查询组合场景
+数据包含内容：有关美国航空公司延迟原因、每月航班量、时间分布和各类指标。适合教学 SQL 小项目，包含多个统计时点和 KPI 查询组合场景
 
 ## Data Visualization 数据可视化
 
@@ -35,10 +33,8 @@ Below are the final dashboard visualizations created in Power BI: ** 中文说�
 
 ## SQL Query 规范 SQL 查询
 
-The full script is available in sql_query_kpi.sql. Below is one example:
-
-** 中文说明 ** 完整 SQL 脚本请参见 sql_query_kpi.sql 文件，以下是其中一个示例查询：
-
+- The full script is available in sql_query_kpi.sql. Below is one example:
+ * 完整 SQL 脚本请参见 sql_query_kpi.sql 文件，以下是其中一个示例查询：
 - SELECT month, SUM(arr_flights) AS total_arrivals
 - FROM flight_delays
 - GROUP BY month
