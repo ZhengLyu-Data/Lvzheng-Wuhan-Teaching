@@ -6,22 +6,17 @@ A lightweight Tableau-based teaching project demonstrating how to design KPI das
 
 ## Project Summary 项目摘要
 
-Goal | 目标
-Teach dashboard reporting logic using Tableau with real-world booking data
-** 中文说明 ** 通过真实酒店预订数据，讲解 KPI 指标设计与仪表板可视化结构
+- Goal | 目标 Teach dashboard reporting logic using Tableau with real-world booking data
+ * 通过真实酒店预订数据，讲解 KPI 指标设计与仪表板可视化结构
 
-Tools | 工具
-pandas (for cleaning), Tableau (for dashboard building)
-** 中文说明 ** 使用 pandas 进行数据预处理，Tableau 构建仪表板
+- Tools | 工具 pandas (for cleaning), Tableau (for dashboard building)
+ * 使用 pandas 进行数据预处理，Tableau 构建仪表板
 
-Output | 输出
-Interactive Tableau dashboard with 3 charts
-** 中文说明 ** 包含三个图表的交互式仪表板（hotel_booking_dashboard.pdf）
+- Output | 输出 Interactive Tableau dashboard with 3 charts
+ * 包含三个图表的交互式仪表板（hotel_booking_dashboard.pdf）
 
-Audience | 受众
-Students or job candidates learning dashboard design
-** 中文说明 ** 适用于学习仪表板设计的学生、讲师或面试展示者
-
+- Audience | 受众 Students or job candidates learning dashboard design
+ * 适用于学习仪表板设计的学生、讲师或面试展示者
 
 ## Dataset 数据集说明
 
@@ -33,9 +28,8 @@ Students or job candidates learning dashboard design
 ** Cleaned Version|清洗后文件 **  
 `hotel_booking_cleaned.csv`
 
-The dataset contains hotel booking information from city and resort hotels, including reservation dates, lead time, customer types, cancellation status, and prices.
-
-** 中文说明 ** 数据集包括城市与度假型酒店的预订记录，涵盖入住时间、提前预订天数、客户类型、取消状态与房价等关键变量。
+- The dataset contains hotel booking information from city and resort hotels, including reservation dates, lead time, customer types, cancellation status, and prices.
+ * 数据集包括城市与度假型酒店的预订记录，涵盖入住时间、提前预订天数、客户类型、取消状态与房价等关键变量。
 
 ## Tableau Dashboard 数据可视化
 
@@ -75,20 +69,15 @@ The dashboard is named: **hotel_booking_dashboard**
 
 - Upload `hotel_booking_cleaned.csv` into Tableau
    * 将清洗后的 CSV 数据导入 Tableau
-
 - Open Tableau and create a new dashboard
     * 在 Tableau 中新建仪表板并添加 3 个图表：
-
    - Chart 1: Drag `hotel` to Columns, `is_canceled` (as percent) to Rows  
    - Chart 2: Use `arrival_date_month` and `hotel` to create a line chart  
    - Chart 3: Use `country` on a filled map with booking count as size
-
 - Organize all charts into a dashboard named **hotel_booking_dashboard**  
    * 将三个图表整合到仪表板中，统一命名为 `hotel_booking_dashboard`，可用于教学演示或面试展示。
-
 - Export the dashboard as PDF
    * 将仪表板导出为 PDF 文件，适合教学演示或求职材料展示
-
 - This project can be executed both on Google Colab and local Jupyter Notebook.
    * 所有脚本支持在 Google Colab 中直接运行，同时也兼容本地 Jupyter Notebook 环境。只需确保 Python 3.x 与相关库已正确安装，即可在本地复现全部流程与输出结果。
 
