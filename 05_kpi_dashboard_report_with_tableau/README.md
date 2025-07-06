@@ -20,14 +20,9 @@ A lightweight Tableau-based teaching project demonstrating how to design KPI das
 
 ## Dataset 数据集说明
 
-** Source|来源 **  [Kaggle – Hotel Booking Demand Dataset](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
-
-** Original File|原始文件 **  
-`hotel_booking_raw.csv`
-
-** Cleaned Version|清洗后文件 **  
-`hotel_booking_cleaned.csv`
-
+- ** Source|来源 **  [Kaggle – Hotel Booking Demand Dataset](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
+- ** Original File|原始文件 **  `hotel_booking_raw.csv`
+- ** Cleaned Version|清洗后文件 **  `hotel_booking_cleaned.csv`
 - The dataset contains hotel booking information from city and resort hotels, including reservation dates, lead time, customer types, cancellation status, and prices.
  * 数据集包括城市与度假型酒店的预订记录，涵盖入住时间、提前预订天数、客户类型、取消状态与房价等关键变量。
 
