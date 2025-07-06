@@ -8,13 +8,10 @@ A lightweight Tableau-based teaching project demonstrating how to design KPI das
 
 - Goal | 目标 Teach dashboard reporting logic using Tableau with real-world booking data
  * 通过真实酒店预订数据，讲解 KPI 指标设计与仪表板可视化结构
-
 - Tools | 工具 pandas (for cleaning), Tableau (for dashboard building)
  * 使用 pandas 进行数据预处理，Tableau 构建仪表板
-
 - Output | 输出 Interactive Tableau dashboard with 3 charts
  * 包含三个图表的交互式仪表板（hotel_booking_dashboard.pdf）
-
 - Audience | 受众 Students or job candidates learning dashboard design
  * 适用于学习仪表板设计的学生、讲师或面试展示者
 
@@ -24,7 +21,7 @@ A lightweight Tableau-based teaching project demonstrating how to design KPI das
 - ** Original File|原始文件 **  `hotel_booking_raw.csv`
 - ** Cleaned Version|清洗后文件 **  `hotel_booking_cleaned.csv`
 - The dataset contains hotel booking information from city and resort hotels, including reservation dates, lead time, customer types, cancellation status, and prices.
- * 数据集包括城市与度假型酒店的预订记录，涵盖入住时间、提前预订天数、客户类型、取消状态与房价等关键变量。
+  * 数据集包括城市与度假型酒店的预订记录，涵盖入住时间、提前预订天数、客户类型、取消状态与房价等关键变量。
 
 ## Tableau Dashboard 数据可视化
 
