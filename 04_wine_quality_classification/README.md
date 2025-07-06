@@ -6,27 +6,21 @@ A basic Python project demonstrating how to build a binary classification model 
 
 ## Project Summary 项目摘要
 
-** Goal | 目标 **  Teach binary classification using logistic regression with interpretable model output  
+- ** Goal | 目标 **  Teach binary classification using logistic regression with interpretable model output  
 通过逻辑回归模型讲解二分类建模的基本流程与模型解释方法  
-
-** Tools | 工具 **  pandas, statsmodels, matplotlib, seaborn, scikit-learn  
+- ** Tools | 工具 **  pandas, statsmodels, matplotlib, seaborn, scikit-learn  
 使用 Python 进行数据处理、模型训练与可视化分析  
-
-** Output | 输出 **  Confusion matrix plot, classification report, and model summary  
+- ** Output | 输出 **  Confusion matrix plot, classification report, and model summary  
 输出混淆矩阵图、分类评估报告与 statsmodels 模型摘要  
-
-** Audience | 受众 **  Students or instructors learning classification modeling  
+- ** Audience | 受众 **  Students or instructors learning classification modeling  
 面向学习机器学习基础或逻辑回归建模的学生与教学人员
 
 ## Dataset 数据集说明
 
-** Source | 来源 **  [Wine Quality Dataset – UCI Repository / Kaggle](https://www.kaggle.com/datasets/rajyellow46/wine-quality)
-
-** Original File | 原始文件 **  `wine_quality_classification_raw.csv`  
-
-** Cleaned Version | 清洗后文件 **  `wine_quality_cleaned.csv`  
-
-** The dataset contains physicochemical indicators and quality scores of wines.  
+- ** Source | 来源 **  [Wine Quality Dataset – UCI Repository / Kaggle](https://www.kaggle.com/datasets/rajyellow46/wine-quality)
+- ** Original File | 原始文件 **  `wine_quality_classification_raw.csv`  
+- ** Cleaned Version | 清洗后文件 **  `wine_quality_cleaned.csv`  
+- ** The dataset contains physicochemical indicators and quality scores of wines.  
     A binary label is created: wines rated ≥ 6 are labeled as "good" (1), otherwise "average" (0).
     * 数据集包含葡萄酒的理化指标与质量评分。我们将评分 ≥ 6 的样本标为优质酒（1），其余为普通酒（0），以构建二分类任务。
 
@@ -47,7 +41,6 @@ Raw CSV → Data Cleaning → Logistic Regression → Evaluation → Confusion M
 - Python 3.x  
   Make sure your local or Colab environment runs Python 3.
   * 请确保你的本地或 Google Colab 环境为 Python 3 版本。
-
 - Install required libraries:
   pip install pandas statsmodels 
   * 请安装以下 Python 库：用于数据处理（pandas）、逻辑回归建模（statsmodels）、可视化（matplotlib & seaborn）和评估指标（scikit-learn）。
