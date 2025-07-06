@@ -44,7 +44,7 @@ All charts are generated using `seaborn` and saved via `matplotlib.pyplot.savefi
 
 ## Data Architecture 数据流程图
 
-![Pipeline Diagram](cleaning_and_plotting_pipeline_architecture.png)
+![Pipeline Diagram](cleaning_and_plotting_pipeline.png)
 
 ** Flow 数据流说明 ** Kaggle CSV → Python 清洗 → 输出 CSV → Python 可视化 → 静态图像
 
