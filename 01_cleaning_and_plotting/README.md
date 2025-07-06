@@ -21,15 +21,13 @@ A basic Python project for teaching data cleaning and visualization. This projec
 ** Original File|原始文件 ** `raw_appointments.csv`  
 ** Cleaned Version|清洗后文件 ** `appointments_cleaned.csv`
 
-The dataset contains medical appointment records, including demographic information and whether the patient showed up.
-
-** 中文说明 **：数据集包含医院挂号信息与病人爽约标记，适合教学二分类建模或行为特征分析。
+- The dataset contains medical appointment records, including demographic information and whether the patient showed up.
+  * 数据集包含医院挂号信息与病人爽约标记，适合教学二分类建模或行为特征分析。
 
 ## Data Visualization 数据可视化
 
-Below are the final visualizations generated from the cleaned CSV:
-
-** 中文说明 **：以下是基于清洗后的数据文件（`appointments_cleaned.csv`）所生成的最终可视化图像：
+- Below are the final visualizations generated from the cleaned CSV:
+  * 以下是基于清洗后的数据文件（`appointments_cleaned.csv`）所生成的最终可视化图像：
 
 ## 1. No-Show Rate by Age Group  
 ![Age Group](no_show_by_age_group.png)
@@ -50,9 +48,8 @@ Below are the final visualizations generated from the cleaned CSV:
 | No-Show Rate by Day of Week      | `no_show_by_dayofweek.png`    | 按星期几统计爽约趋势                 |
 | No-Show Rate by SMS Notification | `no_show_by_sms.png`          | 收到短信提醒 vs 爽约率关系           |
 
-All charts are generated using `seaborn` and saved via `matplotlib.pyplot.savefig()`.
-
-** 中文说明 ** 所有图像均由 Python 可视化库 `seaborn` 绘制，并通过 `matplotlib.pyplot.savefig()` 保存为静态 PNG 文件，适合教学展示与报告嵌入使用。
+- All charts are generated using `seaborn` and saved via `matplotlib.pyplot.savefig()`.
+  * 所有图像均由 Python 可视化库 `seaborn` 绘制，并通过 `matplotlib.pyplot.savefig()` 保存为静态 PNG 文件，适合教学展示与报告嵌入使用。
 
 ## Data Architecture 数据流程图
 
