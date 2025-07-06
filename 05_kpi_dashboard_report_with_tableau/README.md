@@ -54,7 +54,7 @@ It includes the following three visualizations:
 | 3     | Cancellation Rate by Lead Time Bucket| A bar chart showing how cancellation rates change by booking lead time | 展示不同提前预订时长下的取消率变化，适合讲解风险控制逻辑|
 
 - All charts are part of a single Tableau dashboard with aligned layout, colors, and KPI emphasis.
-* 所有图表整合为一个 Tableau 仪表板，通过统一布局与配色，聚焦关键指标的表达，展示数据驱动的分析思维。
+  * 所有图表整合为一个 Tableau 仪表板，通过统一布局与配色，聚焦关键指标的表达，展示数据驱动的分析思维。
 
 ## Data Architecture 数据流程图
 
