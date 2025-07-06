@@ -31,6 +31,18 @@ Below are the final visualizations generated from the cleaned CSV:
 
 ** 中文说明 **：以下是基于清洗后的数据文件（`appointments_cleaned.csv`）所生成的最终可视化图像：
 
+## 1. No-Show Rate by Age Group  
+![Age Group](no_show_by_age_group.png)
+
+## 2. No-Show Rate by Day of Week  
+![Day of Week](no_show_by_dayofweek.png)
+
+## 3. No-Show Rate by Gender  
+![Gender](no_show_by_gender.png)
+
+## 4. No-Show Rate by SMS Notification  
+![SMS Notification](no_show_by_sms.png)
+
 | Chart Title (EN)                  | 文件名                        | 中文说明                             |
 |----------------------------------|-------------------------------|--------------------------------------|
 | No-Show Rate by Gender           | `no_show_by_gender.png`       | 按性别展示爽约率                     |
