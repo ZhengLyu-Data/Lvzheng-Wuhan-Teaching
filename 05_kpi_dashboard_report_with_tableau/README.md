@@ -43,9 +43,8 @@ The dashboard is named: **hotel_booking_dashboard**
 
 ![tableau dashboard image](hotel_booking_dashboard.twbx.png)
 
-It includes the following three visualizations:
-
-** 中文说明 ** 这个Tableau仪表板包括三个图表
+- It includes the following three visualizations:
+ * 这个Tableau仪表板包括三个图表
 
 | Chart | Title                        | Description | 中文说明 |
 |-------|------------------------------|-------------|----------|
