@@ -21,7 +21,7 @@ A basic Python project demonstrating how to build a binary classification model 
 - ** Original File | 原始文件 **  `wine_quality_classification_raw.csv`  
 - ** Cleaned Version | 清洗后文件 **  `wine_quality_cleaned.csv`  
 - ** The dataset contains physicochemical indicators and quality scores of wines.  
-    A binary label is created: wines rated ≥ 6 are labeled as "good" (1), otherwise "average" (0).
+- A binary label is created: wines rated ≥ 6 are labeled as "good" (1), otherwise "average" (0).
     * 数据集包含葡萄酒的理化指标与质量评分。我们将评分 ≥ 6 的样本标为优质酒（1），其余为普通酒（0），以构建二分类任务。
 
 ## Data Visualization 数据可视化
@@ -32,9 +32,8 @@ A basic Python project demonstrating how to build a binary classification model 
 
 ![Pipeline Diagram](wine_quality_classification_pipeline.png)
 
-Raw CSV → Data Cleaning → Logistic Regression → Evaluation → Confusion Matrix & Report
-
-原始数据 → 数据清洗 → 构建逻辑回归模型 → 评估性能 → 混淆矩阵与指标输出
+- Raw CSV → Data Cleaning → Logistic Regression → Evaluation → Confusion Matrix & Report
+    * 原始数据 → 数据清洗 → 构建逻辑回归模型 → 评估性能 → 混淆矩阵与指标输出
 
 ## Prerequisites 环境依赖
 
