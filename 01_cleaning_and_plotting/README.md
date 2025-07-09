@@ -60,7 +60,7 @@ A basic Python project for teaching data cleaning and visualization. This projec
 
 ![Pipeline Diagram](cleaning_and_plotting_pipeline.png)
 
-** Flow 数据流说明 ** Kaggle CSV → Python 清洗 → 输出 CSV → Python 可视化 → 静态图像
+  ** Flow 数据流说明 ** Kaggle CSV → Python 清洗 → 输出 CSV → Python 可视化 → 静态图像
 
 ## Prerequisites 环境依赖
   
