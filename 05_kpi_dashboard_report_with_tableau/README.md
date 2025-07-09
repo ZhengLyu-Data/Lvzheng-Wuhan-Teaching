@@ -42,45 +42,45 @@ The dashboard is named: **hotel_booking_dashboard**
 | 3     | Cancellation Rate by Lead Time Bucket| A bar chart showing how cancellation rates change by booking lead time | 展示不同提前预订时长下的取消率变化，适合讲解风险控制逻辑|
 
 - All charts are part of a single Tableau dashboard with aligned layout, colors, and KPI emphasis.
-  * 所有图表整合为一个 Tableau 仪表板，通过统一布局与配色，聚焦关键指标的表达，展示数据驱动的分析思维。
+    * 所有图表整合为一个 Tableau 仪表板，通过统一布局与配色，聚焦关键指标的表达，展示数据驱动的分析思维。
 
 ## Data Architecture 数据流程图
 
 ![Data Architecture](kpi_dashboard_report_with_tableau_pipeline.png)
 
 - Raw CSV → Data Cleaning (pandas) → Tableau Dashboard → 3 KPI Charts
-  ** 数据流程图 ** 原始数据 → Python 清洗 → Tableau 仪表板 → 三个关键指标图表
+    * 原始数据 → Python 清洗 → Tableau 仪表板 → 三个关键指标图表
 
 ## Prerequisites 环境依赖
 
 - Python 3.x with pandas installed
-   * 请确保你的本地或者Google Colab 环境为 Python 3 版本及 pandas 库（用于清洗数据）
+    * 请确保你的本地或者Google Colab 环境为 Python 3 版本及 pandas 库（用于清洗数据）
 - Tableau Public
-  * 可视化部分使用 Tableau Public 构建仪表板并导出 PDF
+    * 可视化部分使用 Tableau Public 构建仪表板并导出 PDF
 - This project can be visualized directly in Tableau, but it is recommended to use Python with pandas for basic data cleaning to enhance dashboard usability and consistency.
-   * 本项目可直接在 Tableau 中完成可视化，但推荐配合 Python 使用 pandas 进行基础数据清洗，以提升仪表板的可用性与一致性。
+    * 本项目可直接在 Tableau 中完成可视化，但推荐配合 Python 使用 pandas 进行基础数据清洗，以提升仪表板的可用性与一致性。
 
 ## How to Run This Project 如何运行本项目
 
 - Upload `hotel_booking_cleaned.csv` into Tableau
-   * 将清洗后的 CSV 数据导入 Tableau
+    * 将清洗后的 CSV 数据导入 Tableau
 - Open Tableau and create a new dashboard
     * 在 Tableau 中新建仪表板并添加 3 个图表：
    - Chart 1: Drag `hotel` to Columns, `is_canceled` (as percent) to Rows  
    - Chart 2: Use `arrival_date_month` and `hotel` to create a line chart  
    - Chart 3: Use `country` on a filled map with booking count as size
 - Organize all charts into a dashboard named **hotel_booking_dashboard**  
-   * 将三个图表整合到仪表板中，统一命名为 `hotel_booking_dashboard`，可用于教学演示或面试展示。
+    * 将三个图表整合到仪表板中，统一命名为 `hotel_booking_dashboard`，可用于教学演示或面试展示。
 - Export the dashboard as PDF
-   * 将仪表板导出为 PDF 文件，适合教学演示或求职材料展示
+    * 将仪表板导出为 PDF 文件，适合教学演示或求职材料展示
 - This project can be executed both on Google Colab and local Jupyter Notebook.
-   * 所有脚本支持在 Google Colab 中直接运行，同时也兼容本地 Jupyter Notebook 环境。只需确保 Python 3.x 与相关库已正确安装，即可在本地复现全部流程与输出结果。
+    * 所有脚本支持在 Google Colab 中直接运行，同时也兼容本地 Jupyter Notebook 环境。只需确保 Python 3.x 与相关库已正确安装，即可在本地复现全部流程与输出结果。
 
 ## Lessons Learned 教学亮点
 
 - How to structure Tableau dashboards with KPI logic
-   * 如何基于 KPI 思维构建 Tableau 仪表板
+    * 如何基于 KPI 思维构建 Tableau 仪表板
 - How to analyze hotel behavior across time and customer segments
-   * 如何分析酒店预订行为的时间变化与人群差异
+    * 如何分析酒店预订行为的时间变化与人群差异
 - How to explain cancellation risk and financial indicators visually
-   * 如何通过图表解读取消风险与财务价格等关键指标
+    * 如何通过图表解读取消风险与财务价格等关键指标
