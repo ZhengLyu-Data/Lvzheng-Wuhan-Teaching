@@ -30,6 +30,7 @@ A basic Python project demonstrating the logic of user-based collaborative filte
 
 ![Pipeline Diagram](movie_recommender_demo_pipeline.png)  
 
+- CSV raw data → Python cleaning → Rating matrix construction → User similarity calculation → Recommendation output
   ** 数据流程图 ** CSV 原始数据 → Python 清洗 → 建立评分矩阵 → 用户相似度计算 → 推荐输出
 
 ## Prerequisites 环境依赖
