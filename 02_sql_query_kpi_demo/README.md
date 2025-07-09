@@ -22,7 +22,7 @@ A lightweight SQL + Power BI project designed for teaching KPI query logic and d
 
 Below are the final dashboard visualizations created in Power BI: ** 中文说明 ** 以下三张图表为基于 SQL 查询输出结果的 Power BI 数据抽象图：
 
-![Power BI dashboard image](flight_kpi_dashboard_screenshot.png)
+![Power BI dashboard image](sql_query_kpi_design_pipeline.png)
 
 ## Data Architecture 数据流程图
 
