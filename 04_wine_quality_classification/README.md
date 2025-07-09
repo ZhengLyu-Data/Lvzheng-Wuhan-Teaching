@@ -2,7 +2,7 @@
 
 A basic Python project demonstrating how to build a binary classification model using logistic regression. This project uses a wine quality dataset to show how interpretable models can be used in teaching binary classification logic.
 
-** 中文说明 (项目简介) **  本项目是一个逻辑回归二分类教学示例，使用葡萄酒质量评分数据构建模型，演示如何用 Python 和 statsmodels 实现一个结构清晰、便于教学讲解的分类流程。
+** 中文说明 (项目简介) ** 本项目是一个逻辑回归二分类教学示例，使用葡萄酒质量评分数据构建模型，演示如何用 Python 和 statsmodels 实现一个结构清晰、便于教学讲解的分类流程。
 
 ## Project Summary 项目摘要
 
