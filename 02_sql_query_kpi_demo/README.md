@@ -18,7 +18,7 @@ A lightweight SQL + Power BI project designed for teaching KPI query logic and d
 
 - ** Original File | 原始文件 ** The original dataset is relatively large and provided in `.csv.zip` format.  
 To make the project easier to run and review, only the cleaned version is included.
-- ** 原始数据体积较大，采用 `.csv.zip` 格式发布，为方便读者预览与运行，本项目中仅保留了清洗后的 `flight_kpi_cleaned.csv` 文件。**
+- ** 中文说明 ** 原始数据体积较大，采用 `.csv.zip` 格式发布，为方便读者预览与运行，本项目中仅保留了清洗后的 `flight_kpi_cleaned.csv` 文件
 
 - ** Cleaned Version | 清洗后文件 **  
 `flight_kpi_cleaned.csv`  
