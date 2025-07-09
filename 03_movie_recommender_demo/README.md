@@ -17,9 +17,12 @@ A basic Python project demonstrating the logic of user-based collaborative filte
 
 ## Dataset 数据集说明
 
-- ** Source|来源 ** [Kaggle – MovieLens 100k Subset](https://www.kaggle.com/datasets/abhikjha/movielens-100k)  
-- ** Original File|原始文件 ** `basic_recommender_ratings.csv`  
-- ** Cleaned Version|清洗后文件 ** `cleaned_recommender_data.csv`  
+- ** Source|来源 ** [Kaggle – MovieLens 100k Subset](https://www.kaggle.com/datasets/abhikjha/movielens-100k)
+  
+- ** Original File|原始文件 ** `basic_recommender_ratings.csv`
+  
+- ** Cleaned Version|清洗后文件 ** `cleaned_recommender_data.csv`
+  
 - The dataset contains user IDs, movie IDs, and corresponding ratings.  
   * 数据集包含用户对电影的评分信息，适用于教学用户推荐算法。
 
@@ -27,7 +30,7 @@ A basic Python project demonstrating the logic of user-based collaborative filte
 
 ![Pipeline Diagram](movie_recommender_demo_pipeline.png)  
 
-CSV 原始数据 → Python 清洗 → 建立评分矩阵 → 用户相似度计算 → 推荐输出
+  ** 数据流程图 ** CSV 原始数据 → Python 清洗 → 建立评分矩阵 → 用户相似度计算 → 推荐输出
 
 ## Prerequisites 环境依赖
 
