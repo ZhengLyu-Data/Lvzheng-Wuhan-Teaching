@@ -13,10 +13,18 @@ A lightweight SQL + Power BI project designed for teaching KPI query logic and d
 
 ## Dataset 数据集说明
 
-- ** Source|数据来源 ** Kaggle 网站 — U.S. Flight Delay Causes
-- ** Original File|原始文件 ** Airline_Delay_Cause.csv
-- ** Cleaned Version|清洗后文件 ** clean_flight_delays_teaching.csv
-- 数据包含内容：有关美国航空公司延迟原因、每月航班量、时间分布和各类指标。适合教学 SQL 小项目，包含多个统计时点和 KPI 查询组合场景
+- ** Source | 来源 **  
+[Flight Delay Dataset – Kaggle](https://www.kaggle.com/datasets/shubhendra7/flight-delay-dataset)
+
+- ** Original File | 原始文件 ** The original dataset is relatively large and provided in `.csv.zip` format.  
+To make the project easier to run and review, only the cleaned version is included.
+- ** 原始数据体积较大，采用 `.csv.zip` 格式发布，为方便读者预览与运行，本项目中仅保留了清洗后的 `flight_kpi_cleaned.csv` 文件。**
+
+- ** Cleaned Version | 清洗后文件 **  
+`flight_kpi_cleaned.csv`  
+This file was used directly for Power BI dashboard construction.
+
+** 中文说明 **  本数据集包含航班号、起降机场、延误时间等字段，用于模拟商业报表中对 KPI 的 SQL 查询逻辑与图表设计流程。
 
 ## Data Visualization 数据可视化
 
