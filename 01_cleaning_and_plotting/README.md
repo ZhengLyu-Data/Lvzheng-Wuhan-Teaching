@@ -7,18 +7,23 @@ A basic Python project for teaching data cleaning and visualization. This projec
 ## Project Summary 项目摘要
 
 ** Goal|目标 ** Teach basic data cleaning and plotting using Python  
-  使用 Python 教学演示基础的数据清洗与可视化流程  
+  使用 Python 教学演示基础的数据清洗与可视化流程
+  
 ** Tools|工具 ** pandas, seaborn, matplotlib  
   使用 Python 中的常见数据处理与图形库  
+  
 ** Output|输出 ** Cleaned CSV and 4 static PNG charts  
   产出包括清洗后的 CSV 和四张静态图像  
+  
 ** Audience|受众 ** Students or teaching assistants learning data pipelines  
   面向数据处理初学者或教学助理使用
 
 ## Dataset 数据集说明
 
 ** Source|来源 ** Kaggle – [Medical Appointment No Shows](https://www.kaggle.com/datasets/joniarroba/noshowappointments)  
+
 ** Original File|原始文件 ** `raw_appointments.csv`  
+
 ** Cleaned Version|清洗后文件 ** `appointments_cleaned.csv`
 
 - The dataset contains medical appointment records, including demographic information and whether the patient showed up.
