@@ -24,6 +24,8 @@ This is a collection of 5 lightweight, well-structured teaching projects designe
   * 可直接演示的示例脚本
 - Visualizations (Power BI or Tableau)  
   * 可视化成果（Power BI 或 Tableau 文件）
+- Engineering-style architecture diagrams
+  * 工程化架构图展示项目流程与模块关系
 - Lightweight dependencies (Colab-ready)  
   * 轻量依赖配置（支持 Google Colab 快速运行）
 - Real datasets from Kaggle used in all cases  
