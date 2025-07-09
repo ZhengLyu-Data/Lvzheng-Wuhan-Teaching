@@ -26,7 +26,7 @@ Below are the final dashboard visualizations created in Power BI: ** 中文说�
 
 ## Data Architecture 数据流程图
 
-![Pipeline Diagram](kpi_dashboard_report_with_tableau_pipeline.png)
+![Pipeline Diagram]()
 
 ** 中文说明 ** Flow 数据流程：Kaggle CSV 数据 → 本地清洗 → SQLite SQL 查询 → Power BI 数据可视化
 
