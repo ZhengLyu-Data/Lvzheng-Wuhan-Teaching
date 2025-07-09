@@ -1,0 +1,151 @@
+year,month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct,weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted,arr_delay,carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
+2023,8,9E,Endeavor Air Inc.,ABE,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",89.0,13.0,2.25,1.6,3.16,0.0,5.99,2.0,1.0,1375.0,71.0,761.0,118.0,0.0,425.0
+2023,8,9E,Endeavor Air Inc.,ABY,"Albany, GA: Southwest Georgia Regional",62.0,10.0,1.97,0.04,0.57,0.0,7.42,0.0,1.0,799.0,218.0,1.0,62.0,0.0,518.0
+2023,8,9E,Endeavor Air Inc.,AEX,"Alexandria, LA: Alexandria International",62.0,10.0,2.73,1.18,1.8,0.0,4.28,1.0,0.0,766.0,56.0,188.0,78.0,0.0,444.0
+2023,8,9E,Endeavor Air Inc.,AGS,"Augusta, GA: Augusta Regional at Bush Field",66.0,12.0,3.69,2.27,4.47,0.0,1.57,1.0,1.0,1397.0,471.0,320.0,388.0,0.0,218.0
+2023,8,9E,Endeavor Air Inc.,ALB,"Albany, NY: Albany International",92.0,22.0,7.76,0.0,2.96,0.0,11.28,2.0,0.0,1530.0,628.0,0.0,134.0,0.0,768.0
+2023,8,9E,Endeavor Air Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",1636.0,256.0,55.98,27.81,63.64,0.0,108.57,32.0,11.0,29768.0,9339.0,4557.0,4676.0,0.0,11196.0
+2023,8,9E,Endeavor Air Inc.,AUS,"Austin, TX: Austin - Bergstrom International",75.0,12.0,5.62,0.97,4.41,0.0,1.0,0.0,0.0,843.0,535.0,170.0,111.0,0.0,27.0
+2023,8,9E,Endeavor Air Inc.,AVL,"Asheville, NC: Asheville Regional",59.0,7.0,3.32,0.0,0.42,0.0,3.26,2.0,0.0,324.0,117.0,0.0,25.0,0.0,182.0
+2023,8,9E,Endeavor Air Inc.,AZO,"Kalamazoo, MI: Kalamazoo/Battle Creek International",62.0,13.0,6.53,0.94,3.54,0.0,1.99,0.0,0.0,707.0,470.0,77.0,87.0,0.0,73.0
+2023,8,9E,Endeavor Air Inc.,BDL,"Hartford, CT: Bradley International",30.0,4.0,0.0,0.82,0.0,0.0,3.18,1.0,0.0,1421.0,0.0,532.0,0.0,0.0,889.0
+2023,8,9E,Endeavor Air Inc.,BGM,"Binghamton, NY: Greater Binghamton/Edwin A. Link Field",58.0,10.0,2.78,0.0,3.18,0.0,4.03,1.0,0.0,1604.0,207.0,0.0,1049.0,0.0,348.0
+2023,8,9E,Endeavor Air Inc.,BGR,"Bangor, ME: Bangor International",124.0,13.0,8.42,1.0,0.5,0.0,3.08,3.0,0.0,1207.0,282.0,650.0,18.0,0.0,257.0
+2023,8,9E,Endeavor Air Inc.,BHM,"Birmingham, AL: Birmingham-Shuttlesworth International",84.0,17.0,4.11,0.0,4.24,0.0,8.65,2.0,2.0,1124.0,208.0,0.0,164.0,0.0,752.0
+2023,8,9E,Endeavor Air Inc.,BNA,"Nashville, TN: Nashville International",166.0,25.0,6.02,2.91,11.4,0.0,4.68,2.0,0.0,1465.0,362.0,308.0,523.0,0.0,272.0
+2023,8,9E,Endeavor Air Inc.,BQK,"Brunswick, GA: Brunswick Golden Isles",62.0,14.0,7.46,0.2,3.1,0.0,3.24,2.0,2.0,2641.0,1238.0,184.0,771.0,0.0,448.0
+2023,8,9E,Endeavor Air Inc.,BTV,"Burlington, VT: Burlington International",147.0,30.0,11.85,0.0,11.0,0.0,7.16,3.0,0.0,1628.0,714.0,0.0,324.0,0.0,590.0
+2023,8,9E,Endeavor Air Inc.,BUF,"Buffalo, NY: Buffalo Niagara International",154.0,25.0,7.96,0.0,10.66,0.0,6.38,2.0,0.0,1065.0,289.0,0.0,448.0,0.0,328.0
+2023,8,9E,Endeavor Air Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",62.0,13.0,1.92,0.0,3.82,0.2,7.05,2.0,0.0,900.0,89.0,0.0,203.0,28.0,580.0
+2023,8,9E,Endeavor Air Inc.,CAE,"Columbia, SC: Columbia Metropolitan",92.0,20.0,3.74,0.0,9.41,0.0,6.85,1.0,0.0,1375.0,398.0,0.0,448.0,0.0,529.0
+2023,8,9E,Endeavor Air Inc.,CHA,"Chattanooga, TN: Lovell Field",119.0,17.0,5.23,3.1,1.96,0.0,6.71,1.0,0.0,1108.0,341.0,174.0,82.0,0.0,511.0
+2023,8,9E,Endeavor Air Inc.,CHO,"Charlottesville, VA: Charlottesville Albemarle",139.0,17.0,4.17,2.6,6.67,0.0,3.55,2.0,1.0,891.0,226.0,118.0,348.0,0.0,199.0
+2023,8,9E,Endeavor Air Inc.,CHS,"Charleston, SC: Charleston AFB/International",137.0,16.0,4.88,0.41,5.35,0.0,5.35,4.0,0.0,935.0,322.0,12.0,330.0,0.0,271.0
+2023,8,9E,Endeavor Air Inc.,CLE,"Cleveland, OH: Cleveland-Hopkins International",323.0,62.0,24.42,3.4,8.65,0.0,25.53,6.0,3.0,4601.0,1792.0,851.0,304.0,0.0,1654.0
+2023,8,9E,Endeavor Air Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",232.0,38.0,9.94,1.0,13.46,0.0,13.6,9.0,1.0,2617.0,752.0,49.0,753.0,0.0,1063.0
+2023,8,9E,Endeavor Air Inc.,CMH,"Columbus, OH: John Glenn Columbus International",99.0,15.0,5.5,1.0,3.79,0.0,4.71,2.0,0.0,971.0,275.0,23.0,109.0,0.0,564.0
+2023,8,9E,Endeavor Air Inc.,CRW,"Charleston/Dunbar, WV: West Virginia International Yeager",5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2023,8,9E,Endeavor Air Inc.,CSG,"Columbus, GA: Columbus Airport",79.0,10.0,2.12,1.69,0.35,0.0,5.84,2.0,0.0,1280.0,828.0,59.0,17.0,0.0,376.0
+2023,8,9E,Endeavor Air Inc.,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",637.0,109.0,29.44,3.89,28.21,0.0,47.45,8.0,0.0,8481.0,2548.0,122.0,1248.0,0.0,4563.0
+2023,8,9E,Endeavor Air Inc.,CWA,"Mosinee, WI: Central Wisconsin",62.0,12.0,4.59,0.0,0.2,0.0,7.21,0.0,0.0,878.0,460.0,0.0,5.0,0.0,413.0
+2023,8,9E,Endeavor Air Inc.,DAY,"Dayton, OH: James M Cox/Dayton International",27.0,5.0,1.08,0.0,2.14,0.0,1.77,0.0,0.0,418.0,92.0,0.0,118.0,0.0,208.0
+2023,8,9E,Endeavor Air Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",205.0,29.0,8.52,0.57,11.44,0.0,8.48,3.0,0.0,2886.0,749.0,46.0,1240.0,0.0,851.0
+2023,8,9E,Endeavor Air Inc.,DHN,"Dothan, AL: Dothan Regional",62.0,11.0,2.0,0.0,7.29,0.0,1.71,0.0,0.0,456.0,43.0,0.0,316.0,0.0,97.0
+2023,8,9E,Endeavor Air Inc.,DLH,"Duluth, MN: Duluth International",55.0,2.0,0.19,0.0,0.07,0.0,1.74,0.0,0.0,153.0,8.0,0.0,3.0,0.0,142.0
+2023,8,9E,Endeavor Air Inc.,DSM,"Des Moines, IA: Des Moines International",218.0,52.0,18.56,0.0,10.92,0.0,22.52,1.0,0.0,3728.0,1539.0,0.0,646.0,0.0,1543.0
+2023,8,9E,Endeavor Air Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",1607.0,262.0,61.84,13.84,58.28,0.0,128.03,19.0,5.0,24485.0,6954.0,1146.0,4936.0,0.0,11449.0
+2023,8,9E,Endeavor Air Inc.,EVV,"Evansville, IN: Evansville Regional",79.0,14.0,4.58,2.0,4.39,0.0,3.03,1.0,0.0,1105.0,762.0,64.0,111.0,0.0,168.0
+2023,8,9E,Endeavor Air Inc.,EWR,"Newark, NJ: Newark Liberty International",150.0,21.0,9.7,0.0,4.91,0.0,6.38,2.0,0.0,1264.0,620.0,0.0,237.0,0.0,407.0
+2023,8,9E,Endeavor Air Inc.,FAR,"Fargo, ND: Hector International",58.0,6.0,1.93,0.0,0.07,0.0,4.0,1.0,0.0,309.0,180.0,0.0,3.0,0.0,126.0
+2023,8,9E,Endeavor Air Inc.,FAY,"Fayetteville, NC: Fayetteville Regional/Grannis Field",31.0,7.0,3.0,1.2,1.12,0.0,1.68,0.0,1.0,718.0,204.0,61.0,78.0,0.0,375.0
+2023,8,9E,Endeavor Air Inc.,FSD,"Sioux Falls, SD: Joe Foss Field",53.0,20.0,11.59,1.0,0.8,0.0,6.62,0.0,0.0,1382.0,653.0,32.0,54.0,0.0,643.0
+2023,8,9E,Endeavor Air Inc.,GFK,"Grand Forks, ND: Grand Forks International",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2023,8,9E,Endeavor Air Inc.,GRR,"Grand Rapids, MI: Gerald R. Ford International",149.0,18.0,5.43,0.93,2.2,0.0,9.43,1.0,0.0,1427.0,525.0,28.0,147.0,0.0,727.0
+2023,8,9E,Endeavor Air Inc.,GSO,"Greensboro/High Point, NC: Piedmont Triad International",166.0,14.0,6.46,0.0,5.1,0.0,2.44,1.0,1.0,1282.0,912.0,0.0,178.0,0.0,192.0
+2023,8,9E,Endeavor Air Inc.,GSP,"Greer, SC: Greenville-Spartanburg International",104.0,19.0,6.67,1.0,4.76,0.0,6.57,2.0,0.0,1141.0,582.0,37.0,126.0,0.0,396.0
+2023,8,9E,Endeavor Air Inc.,GTR,"Columbus, MS: Golden Triangle Regional",57.0,13.0,5.29,0.0,2.7,0.0,5.01,2.0,0.0,1063.0,451.0,0.0,102.0,0.0,510.0
+2023,8,9E,Endeavor Air Inc.,IAD,"Washington, DC: Washington Dulles International",36.0,4.0,1.0,0.0,1.0,0.0,2.0,0.0,0.0,168.0,28.0,0.0,19.0,0.0,121.0
+2023,8,9E,Endeavor Air Inc.,ILM,"Wilmington, NC: Wilmington International",147.0,32.0,11.26,0.52,8.83,0.0,11.38,6.0,0.0,1805.0,695.0,55.0,439.0,0.0,616.0
+2023,8,9E,Endeavor Air Inc.,IND,"Indianapolis, IN: Indianapolis International",282.0,43.0,18.59,1.0,8.03,0.0,15.37,6.0,0.0,3208.0,1222.0,15.0,356.0,0.0,1615.0
+2023,8,9E,Endeavor Air Inc.,ITH,"Ithaca/Cortland, NY: Ithaca Tompkins International",62.0,17.0,4.98,1.76,6.86,0.0,3.39,1.0,0.0,1671.0,256.0,898.0,273.0,0.0,244.0
+2023,8,9E,Endeavor Air Inc.,JAX,"Jacksonville, FL: Jacksonville International",85.0,14.0,6.54,0.0,4.4,0.0,3.06,5.0,0.0,754.0,445.0,0.0,118.0,0.0,191.0
+2023,8,9E,Endeavor Air Inc.,JFK,"New York, NY: John F. Kennedy International",1576.0,213.0,49.85,13.99,76.24,0.1,72.82,32.0,0.0,21184.0,6213.0,2806.0,5420.0,5.0,6740.0
+2023,8,9E,Endeavor Air Inc.,LAN,"Lansing, MI: Capital Region International",62.0,7.0,3.92,0.98,1.1,0.0,1.0,2.0,0.0,677.0,419.0,161.0,29.0,0.0,68.0
+2023,8,9E,Endeavor Air Inc.,LEX,"Lexington, KY: Blue Grass",62.0,7.0,3.27,0.09,0.9,0.0,2.74,0.0,0.0,989.0,708.0,60.0,20.0,0.0,201.0
+2023,8,9E,Endeavor Air Inc.,LFT,"Lafayette, LA: Lafayette Regional Paul Fournet Field",74.0,7.0,4.43,0.0,0.41,0.0,2.16,1.0,0.0,572.0,365.0,0.0,18.0,0.0,189.0
+2023,8,9E,Endeavor Air Inc.,LGA,"New York, NY: LaGuardia",3171.0,438.0,116.05,18.62,141.81,0.07,161.45,77.0,8.0,37080.0,13761.0,1274.0,8613.0,6.0,13426.0
+2023,8,9E,Endeavor Air Inc.,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",27.0,4.0,1.0,0.0,1.83,0.0,1.17,0.0,0.0,249.0,29.0,0.0,83.0,0.0,137.0
+2023,8,9E,Endeavor Air Inc.,MBS,"Saginaw/Bay City/Midland, MI: MBS International",4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2023,8,9E,Endeavor Air Inc.,MCI,"Kansas City, MO: Kansas City International",143.0,25.0,8.13,0.0,6.67,0.0,10.2,2.0,0.0,1749.0,411.0,0.0,300.0,0.0,1038.0
+2023,8,9E,Endeavor Air Inc.,MEM,"Memphis, TN: Memphis International",31.0,7.0,3.35,0.0,1.68,0.0,1.98,2.0,0.0,142.0,56.0,0.0,28.0,0.0,58.0
+2023,8,9E,Endeavor Air Inc.,MGM,"Montgomery, AL: Montgomery Regional",41.0,6.0,1.61,0.95,1.44,0.0,2.0,1.0,0.0,230.0,87.0,55.0,32.0,0.0,56.0
+2023,8,9E,Endeavor Air Inc.,MKE,"Milwaukee, WI: General Mitchell International",58.0,9.0,5.61,0.0,1.24,0.0,2.15,0.0,0.0,467.0,265.0,0.0,117.0,0.0,85.0
+2023,8,9E,Endeavor Air Inc.,MLI,"Moline, IL: Quad Cities International",62.0,12.0,3.51,1.66,3.08,0.0,3.75,2.0,0.0,967.0,166.0,258.0,126.0,0.0,417.0
+2023,8,9E,Endeavor Air Inc.,MLU,"Monroe, LA: Monroe Regional",62.0,9.0,3.18,0.0,3.7,0.0,2.12,0.0,0.0,902.0,187.0,0.0,301.0,0.0,414.0
+2023,8,9E,Endeavor Air Inc.,MOB,"Mobile, AL: Mobile Regional",87.0,13.0,4.31,0.0,4.03,0.0,4.65,2.0,0.0,883.0,365.0,0.0,261.0,0.0,257.0
+2023,8,9E,Endeavor Air Inc.,MQT,"Marquette, MI: Marquette Sawyer Regional",31.0,6.0,3.0,0.0,1.11,0.0,1.9,0.0,0.0,556.0,381.0,0.0,34.0,0.0,141.0
+2023,8,9E,Endeavor Air Inc.,MSN,"Madison, WI: Dane County Regional-Truax Field",35.0,3.0,2.13,0.0,0.0,0.0,0.87,0.0,0.0,77.0,57.0,0.0,0.0,0.0,20.0
+2023,8,9E,Endeavor Air Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",739.0,118.0,28.66,6.65,20.52,0.0,62.17,1.0,2.0,8708.0,1869.0,536.0,1379.0,0.0,4924.0
+2023,8,9E,Endeavor Air Inc.,MYR,"Myrtle Beach, SC: Myrtle Beach International",68.0,14.0,5.37,0.0,3.79,0.0,4.84,4.0,0.0,921.0,429.0,0.0,139.0,0.0,353.0
+2023,8,9E,Endeavor Air Inc.,OAJ,"Jacksonville/Camp Lejeune, NC: Albert J Ellis",4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2023,8,9E,Endeavor Air Inc.,OMA,"Omaha, NE: Eppley Airfield",54.0,20.0,6.49,0.0,4.66,0.0,8.85,1.0,0.0,2126.0,641.0,0.0,198.0,0.0,1287.0
+2023,8,9E,Endeavor Air Inc.,ORF,"Norfolk, VA: Norfolk International",186.0,29.0,18.38,0.9,5.2,0.0,4.52,2.0,1.0,3632.0,2351.0,627.0,231.0,0.0,423.0
+2023,8,9E,Endeavor Air Inc.,ORH,"Worcester, MA: Worcester Regional",27.0,3.0,2.94,0.0,0.06,0.0,0.0,1.0,0.0,106.0,105.0,0.0,1.0,0.0,0.0
+2023,8,9E,Endeavor Air Inc.,PIT,"Pittsburgh, PA: Pittsburgh International",129.0,14.0,4.41,0.33,4.45,0.0,4.8,4.0,0.0,1400.0,720.0,80.0,247.0,0.0,353.0
+2023,8,9E,Endeavor Air Inc.,PVD,"Providence, RI: Rhode Island Tf Green International",61.0,12.0,5.13,0.0,0.03,0.0,6.84,0.0,0.0,662.0,200.0,0.0,6.0,0.0,456.0
+2023,8,9E,Endeavor Air Inc.,PWM,"Portland, ME: Portland International Jetport",153.0,30.0,7.15,0.0,14.44,0.0,8.41,3.0,0.0,1386.0,297.0,0.0,573.0,0.0,516.0
+2023,8,9E,Endeavor Air Inc.,RAP,"Rapid City, SD: Rapid City Regional",3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2023,8,9E,Endeavor Air Inc.,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",614.0,98.0,24.12,0.0,17.17,0.0,56.71,11.0,0.0,6554.0,1659.0,0.0,647.0,0.0,4248.0
+2023,8,9E,Endeavor Air Inc.,RIC,"Richmond, VA: Richmond International",276.0,30.0,14.52,0.0,6.7,0.0,8.79,5.0,0.0,1666.0,761.0,0.0,244.0,0.0,661.0
+2023,8,9E,Endeavor Air Inc.,ROA,"Roanoke, VA: Roanoke Blacksburg Regional",89.0,10.0,3.28,1.86,2.31,0.0,2.55,3.0,0.0,498.0,197.0,52.0,103.0,0.0,146.0
+2023,8,9E,Endeavor Air Inc.,ROC,"Rochester, NY: Frederick Douglass Grtr Rochester International",294.0,45.0,14.22,1.55,13.1,0.0,16.13,3.0,0.0,3044.0,1351.0,44.0,654.0,0.0,995.0
+2023,8,9E,Endeavor Air Inc.,RST,"Rochester, MN: Rochester International",31.0,9.0,4.69,0.0,1.31,0.0,3.0,0.0,0.0,372.0,178.0,0.0,36.0,0.0,158.0
+2023,8,9E,Endeavor Air Inc.,SAV,"Savannah, GA: Savannah/Hilton Head International",132.0,23.0,8.49,0.0,10.02,0.0,4.49,5.0,3.0,1712.0,765.0,0.0,500.0,0.0,447.0
+2023,8,9E,Endeavor Air Inc.,SDF,"Louisville, KY: Louisville Muhammad Ali International",15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2023,8,9E,Endeavor Air Inc.,SHV,"Shreveport, LA: Shreveport Regional",86.0,13.0,1.08,2.0,2.81,0.0,7.11,3.0,0.0,1013.0,38.0,223.0,225.0,0.0,527.0
+2023,8,9E,Endeavor Air Inc.,STL,"St. Louis, MO: St Louis Lambert International",139.0,13.0,3.27,0.0,1.79,0.0,7.94,4.0,1.0,715.0,171.0,0.0,60.0,0.0,484.0
+2023,8,9E,Endeavor Air Inc.,SYR,"Syracuse, NY: Syracuse Hancock International",263.0,49.0,17.25,2.0,13.28,0.0,16.47,2.0,0.0,4296.0,1751.0,786.0,744.0,0.0,1015.0
+2023,8,9E,Endeavor Air Inc.,TLH,"Tallahassee, FL: Tallahassee International",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2023,8,9E,Endeavor Air Inc.,TRI,"Bristol/Johnson City/Kingsport, TN: Tri Cities",98.0,12.0,4.4,0.02,2.7,0.0,4.89,1.0,0.0,866.0,238.0,4.0,97.0,0.0,527.0
+2023,8,9E,Endeavor Air Inc.,TVC,"Traverse City, MI: Cherry Capital",163.0,22.0,10.71,0.79,2.38,0.0,8.12,0.0,0.0,1769.0,1057.0,45.0,98.0,0.0,569.0
+2023,8,9E,Endeavor Air Inc.,TYS,"Knoxville, TN: McGhee Tyson",232.0,48.0,12.89,1.14,12.12,0.0,21.84,4.0,0.0,4257.0,704.0,321.0,998.0,0.0,2234.0
+2023,8,9E,Endeavor Air Inc.,VLD,"Valdosta, GA: Valdosta Regional",62.0,14.0,6.55,1.66,2.04,0.0,3.75,3.0,0.0,1684.0,1157.0,44.0,74.0,0.0,409.0
+2023,8,9E,Endeavor Air Inc.,XNA,"Fayetteville, AR: Northwest Arkansas National",27.0,3.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,268.0,33.0,0.0,0.0,0.0,235.0
+2023,8,AA,American Airlines Inc.,ABQ,"Albuquerque, NM: Albuquerque International Sunport",296.0,70.0,28.43,0.0,6.64,0.0,34.93,2.0,0.0,7128.0,1566.0,0.0,412.0,0.0,5150.0
+2023,8,AA,American Airlines Inc.,ALB,"Albany, NY: Albany International",93.0,23.0,10.29,0.22,2.55,1.0,8.93,0.0,0.0,1476.0,515.0,24.0,110.0,21.0,806.0
+2023,8,AA,American Airlines Inc.,AMA,"Amarillo, TX: Rick Husband Amarillo International",60.0,26.0,10.0,0.0,1.21,0.0,14.79,2.0,0.0,4719.0,1617.0,0.0,38.0,0.0,3064.0
+2023,8,AA,American Airlines Inc.,ANC,"Anchorage, AK: Ted Stevens Anchorage International",93.0,37.0,13.0,0.76,14.73,0.0,8.51,0.0,0.0,1528.0,508.0,29.0,385.0,0.0,606.0
+2023,8,AA,American Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",759.0,225.0,67.14,14.76,38.73,0.21,104.17,16.0,5.0,20112.0,5665.0,950.0,2152.0,11.0,11334.0
+2023,8,AA,American Airlines Inc.,AUS,"Austin, TX: Austin - Bergstrom International",1376.0,328.0,92.41,13.89,80.55,0.55,140.6,11.0,1.0,31197.0,9964.0,2181.0,4350.0,11.0,14691.0
+2023,8,AA,American Airlines Inc.,AVL,"Asheville, NC: Asheville Regional",165.0,64.0,19.17,5.38,12.37,0.0,27.08,2.0,0.0,6689.0,2412.0,426.0,511.0,0.0,3340.0
+2023,8,AA,American Airlines Inc.,AVP,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",77.0,23.0,14.58,2.81,0.9,0.0,4.7,0.0,0.0,2321.0,1603.0,232.0,48.0,0.0,438.0
+2023,8,AA,American Airlines Inc.,BDL,"Hartford, CT: Bradley International",278.0,90.0,31.43,5.72,7.27,0.0,45.59,2.0,0.0,5826.0,2049.0,428.0,293.0,0.0,3056.0
+2023,8,AA,American Airlines Inc.,BFL,"Bakersfield, CA: Meadows Field",75.0,24.0,9.38,0.05,2.95,0.0,11.62,2.0,0.0,2836.0,758.0,17.0,90.0,0.0,1971.0
+2023,8,AA,American Airlines Inc.,BGR,"Bangor, ME: Bangor International",134.0,24.0,6.13,0.32,3.4,0.0,14.15,1.0,0.0,1638.0,483.0,20.0,116.0,0.0,1019.0
+2023,8,AA,American Airlines Inc.,BHM,"Birmingham, AL: Birmingham-Shuttlesworth International",56.0,27.0,5.01,2.23,3.98,0.0,15.78,0.0,0.0,2959.0,929.0,258.0,267.0,0.0,1505.0
+2023,8,AA,American Airlines Inc.,BNA,"Nashville, TN: Nashville International",755.0,221.0,79.95,8.58,29.61,1.15,101.72,10.0,1.0,19927.0,8122.0,1069.0,1303.0,39.0,9394.0
+2023,8,AA,American Airlines Inc.,BOI,"Boise, ID: Boise Air Terminal",117.0,28.0,11.32,1.0,3.38,0.0,12.3,0.0,0.0,2528.0,577.0,139.0,112.0,0.0,1700.0
+2023,8,AA,American Airlines Inc.,BOS,"Boston, MA: Logan International",1478.0,454.0,117.87,28.77,118.12,2.48,186.76,14.0,2.0,38482.0,11286.0,2379.0,5785.0,194.0,18838.0
+2023,8,AA,American Airlines Inc.,BTV,"Burlington, VT: Burlington International",51.0,12.0,3.74,0.15,1.02,0.0,7.09,0.0,0.0,1097.0,321.0,12.0,51.0,0.0,713.0
+2023,8,AA,American Airlines Inc.,BUF,"Buffalo, NY: Buffalo Niagara International",188.0,59.0,17.45,3.7,7.69,0.0,30.16,1.0,3.0,4442.0,1285.0,303.0,402.0,0.0,2452.0
+2023,8,AA,American Airlines Inc.,BUR,"Burbank, CA: Bob Hope",106.0,23.0,12.45,0.86,2.73,0.0,6.96,2.0,1.0,2348.0,1544.0,144.0,108.0,0.0,552.0
+2023,8,AA,American Airlines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",340.0,105.0,40.33,5.31,10.19,0.11,49.06,7.0,0.0,8122.0,2895.0,384.0,419.0,4.0,4420.0
+2023,8,AA,American Airlines Inc.,BZN,"Bozeman, MT: Bozeman Yellowstone International",97.0,19.0,7.28,0.23,3.85,0.0,7.65,0.0,0.0,1276.0,757.0,25.0,93.0,0.0,401.0
+2023,8,AA,American Airlines Inc.,CAE,"Columbia, SC: Columbia Metropolitan",62.0,10.0,3.76,0.0,1.41,0.0,4.83,0.0,0.0,406.0,160.0,0.0,74.0,0.0,172.0
+2023,8,AA,American Airlines Inc.,CHS,"Charleston, SC: Charleston AFB/International",424.0,101.0,26.22,5.45,12.07,0.13,57.13,11.0,2.0,9084.0,1770.0,445.0,540.0,4.0,6325.0
+2023,8,AA,American Airlines Inc.,CID,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",119.0,52.0,16.14,0.83,4.16,0.0,30.87,2.0,0.0,5715.0,2008.0,62.0,185.0,0.0,3460.0
+2023,8,AA,American Airlines Inc.,CLE,"Cleveland, OH: Cleveland-Hopkins International",505.0,155.0,49.79,7.36,33.83,2.02,62.0,4.0,5.0,12930.0,5397.0,522.0,1384.0,64.0,5563.0
+2023,8,AA,American Airlines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",10497.0,2500.0,636.4,143.81,503.91,9.07,1206.81,230.0,43.0,294629.0,110971.0,14250.0,29468.0,678.0,139262.0
+2023,8,AA,American Airlines Inc.,CMH,"Columbus, OH: John Glenn Columbus International",382.0,104.0,33.48,1.09,8.8,0.19,60.45,6.0,0.0,7941.0,2194.0,79.0,467.0,14.0,5187.0
+2023,8,AA,American Airlines Inc.,COS,"Colorado Springs, CO: City of Colorado Springs Municipal",95.0,19.0,7.79,0.12,2.51,0.0,8.58,1.0,0.0,1034.0,471.0,2.0,97.0,0.0,464.0
+2023,8,AA,American Airlines Inc.,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",285.0,93.0,27.23,5.16,11.91,0.0,48.7,2.0,0.0,10725.0,1996.0,632.0,702.0,0.0,7395.0
+2023,8,AA,American Airlines Inc.,DAB,"Daytona Beach, FL: Daytona Beach International",46.0,11.0,4.49,0.9,2.75,0.0,2.86,0.0,0.0,898.0,471.0,39.0,81.0,0.0,307.0
+2023,8,AA,American Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",2526.0,607.0,171.68,26.15,146.1,2.1,260.96,58.0,21.0,60619.0,22785.0,2001.0,6618.0,80.0,29135.0
+2023,8,AA,American Airlines Inc.,DEN,"Denver, CO: Denver International",739.0,237.0,77.39,5.96,61.23,0.3,92.12,9.0,1.0,21177.0,6971.0,776.0,2876.0,29.0,10525.0
+2023,8,AA,American Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",14953.0,3212.0,898.24,103.53,516.87,9.69,1683.67,151.0,45.0,376057.0,141614.0,7619.0,20738.0,537.0,205549.0
+2023,8,AA,American Airlines Inc.,DRO,"Durango, CO: Durango La Plata County",1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,56.0,56.0,0.0,0.0,0.0,0.0
+2023,8,AA,American Airlines Inc.,DSM,"Des Moines, IA: Des Moines International",234.0,64.0,27.32,0.42,4.14,0.0,32.12,0.0,0.0,6775.0,2967.0,47.0,226.0,0.0,3535.0
+2023,8,AA,American Airlines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",401.0,97.0,37.06,3.48,14.39,0.13,41.93,2.0,2.0,7508.0,3208.0,218.0,635.0,19.0,3428.0
+2023,8,AA,American Airlines Inc.,ECP,"Panama City, FL: Northwest Florida Beaches International",62.0,20.0,5.49,0.0,1.63,0.0,12.88,1.0,0.0,2738.0,991.0,0.0,105.0,0.0,1642.0
+2023,8,AA,American Airlines Inc.,EGE,"Eagle, CO: Eagle County Regional",62.0,12.0,6.29,0.0,0.69,0.0,5.03,0.0,0.0,756.0,412.0,0.0,57.0,0.0,287.0
+2023,8,AA,American Airlines Inc.,ELP,"El Paso, TX: El Paso International",248.0,79.0,27.13,0.8,3.93,0.0,47.15,3.0,1.0,11859.0,2607.0,117.0,229.0,0.0,8906.0
+2023,8,AA,American Airlines Inc.,EUG,"Eugene, OR: Mahlon Sweet Field",62.0,23.0,5.12,0.0,1.15,0.0,16.73,0.0,0.0,1657.0,470.0,0.0,44.0,0.0,1143.0
+2023,8,AA,American Airlines Inc.,EWR,"Newark, NJ: Newark Liberty International",671.0,195.0,62.51,11.22,47.06,0.2,74.01,10.0,2.0,13847.0,4866.0,1221.0,2079.0,31.0,5650.0
+2023,8,AA,American Airlines Inc.,EYW,"Key West, FL: Key West International",92.0,13.0,5.73,0.97,0.13,0.0,6.17,2.0,0.0,1364.0,364.0,59.0,19.0,0.0,922.0
+2023,8,AA,American Airlines Inc.,FAT,"Fresno, CA: Fresno Yosemite International",244.0,69.0,26.03,1.94,7.71,0.25,33.07,2.0,0.0,5889.0,1672.0,158.0,310.0,21.0,3728.0
+2023,8,AA,American Airlines Inc.,FCA,"Kalispell, MT: Glacier Park International",72.0,18.0,6.03,0.47,4.65,0.0,6.85,0.0,0.0,1005.0,368.0,48.0,192.0,0.0,397.0
+2023,8,AA,American Airlines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",447.0,129.0,40.22,3.59,27.19,0.25,57.76,5.0,3.0,11667.0,3675.0,514.0,1169.0,9.0,6300.0
+2023,8,AA,American Airlines Inc.,FSD,"Sioux Falls, SD: Joe Foss Field",62.0,25.0,9.74,0.0,5.15,0.0,10.11,0.0,0.0,2900.0,800.0,0.0,344.0,0.0,1756.0
+2023,8,AA,American Airlines Inc.,GEG,"Spokane, WA: Spokane International",93.0,25.0,10.35,0.0,3.81,0.0,10.84,1.0,0.0,3519.0,714.0,0.0,143.0,0.0,2662.0
+2023,8,AA,American Airlines Inc.,GRR,"Grand Rapids, MI: Gerald R. Ford International",166.0,56.0,17.95,1.69,5.15,0.0,31.22,2.0,2.0,8476.0,2361.0,76.0,263.0,0.0,5776.0
+2023,8,AA,American Airlines Inc.,GSO,"Greensboro/High Point, NC: Piedmont Triad International",122.0,33.0,11.03,1.49,4.22,0.05,16.2,1.0,0.0,3809.0,496.0,169.0,154.0,3.0,2987.0
+2023,8,AA,American Airlines Inc.,GSP,"Greer, SC: Greenville-Spartanburg International",123.0,44.0,10.4,4.01,2.63,0.11,26.85,0.0,0.0,3849.0,753.0,324.0,122.0,27.0,2623.0
+2023,8,AA,American Airlines Inc.,HNL,"Honolulu, HI: Daniel K Inouye International",186.0,41.0,14.52,0.0,14.92,0.0,11.55,0.0,2.0,2878.0,959.0,0.0,370.0,0.0,1549.0
+2023,8,AA,American Airlines Inc.,HSV,"Huntsville, AL: Huntsville International-Carl T Jones Field",9.0,5.0,1.28,0.0,0.02,0.0,3.7,0.0,0.0,581.0,125.0,0.0,3.0,0.0,453.0
+2023,8,AA,American Airlines Inc.,IAD,"Washington, DC: Washington Dulles International",76.0,12.0,4.85,0.75,0.67,0.0,5.73,0.0,0.0,834.0,338.0,49.0,23.0,0.0,424.0
+2023,8,AA,American Airlines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",683.0,180.0,75.08,8.1,19.13,0.0,77.69,8.0,1.0,17333.0,7728.0,838.0,1105.0,0.0,7662.0
+2023,8,AA,American Airlines Inc.,ICT,"Wichita, KS: Wichita Dwight D Eisenhower National",73.0,25.0,14.01,0.0,1.61,0.0,9.38,3.0,0.0,4343.0,2493.0,0.0,51.0,0.0,1799.0
+2023,8,AA,American Airlines Inc.,ILM,"Wilmington, NC: Wilmington International",184.0,59.0,20.56,3.8,8.7,0.0,25.94,3.0,0.0,4670.0,1496.0,309.0,430.0,0.0,2435.0
+2023,8,AA,American Airlines Inc.,IND,"Indianapolis, IN: Indianapolis International",561.0,170.0,50.09,4.02,24.68,1.15,90.06,5.0,0.0,17791.0,4270.0,345.0,1042.0,51.0,12083.0
+2023,8,AA,American Airlines Inc.,JAC,"Jackson, WY: Jackson Hole",99.0,15.0,3.25,1.39,2.73,0.0,7.63,0.0,0.0,1365.0,207.0,192.0,187.0,0.0,779.0
+2023,8,AA,American Airlines Inc.,JAX,"Jacksonville, FL: Jacksonville International",604.0,182.0,56.04,4.56,25.63,1.4,94.37,23.0,1.0,15927.0,3880.0,405.0,1273.0,44.0,10325.0
