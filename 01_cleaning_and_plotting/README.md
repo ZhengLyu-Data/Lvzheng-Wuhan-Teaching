@@ -60,37 +60,38 @@ A basic Python project for teaching data cleaning and visualization. This projec
 
 ![Pipeline Diagram](cleaning_and_plotting_pipeline.png)
 
-  ** Flow 数据流说明 ** Kaggle CSV → Python 清洗 → 输出 CSV → Python 可视化 → 静态图像
+- Kaggle CSV → Python cleaning → Output CSV → Python visualization → Static images
+    * Kaggle CSV → Python 清洗 → 输出 CSV → Python 可视化 → 静态图像
 
 ## Prerequisites 环境依赖
   
 - Python 3.x
-  * 请确保你的本地或 Colab 环境为 Python 3 版本。   
+    * 请确保你的本地或 Colab 环境为 Python 3 版本。   
 - Install the required libraries:
-  * 安装本项目所需的依赖库：    
+    * 安装本项目所需的依赖库：    
 - pip install pandas matplotlib seaborn
-  * 依次安装 pandas（数据处理库）、matplotlib（图像绘制库）、seaborn（统计图表库）
+    * 依次安装 pandas（数据处理库）、matplotlib（图像绘制库）、seaborn（统计图表库）
 
 ## How to Run This Project 如何运行本项目
 
 - Clean the raw dataset (if applicable)
   python clean_data.py
-  * 第一步，运行数据清洗脚本，生成干净的 CSV 文件
+    * 第一步，运行数据清洗脚本，生成干净的 CSV 文件
 - Generate visualizations
   python visualize.py
-  * 第二步，运行可视化脚本，自动输出图像文件 
+    * 第二步，运行可视化脚本，自动输出图像文件 
 - Cleaned file: appointments_cleaned.csv
-  * 清洗后的数据文件（CSV 格式） 
+    * 清洗后的数据文件（CSV 格式） 
 - Output images: 4 PNG files in the same folder
-  * 4 张图像（PNG 格式）将保存在当前目录下
+    * 4 张图像（PNG 格式）将保存在当前目录下
 - This project can be executed both on Google Colab and local Jupyter Notebook.
-  * 所有脚本支持在 Google Colab 中直接运行，同时也兼容本地 Jupyter Notebook 环境。只需确保 Python 3.x 与相关库已正确安装，即可在本地复现全部流程与输出结果。
+    * 所有脚本支持在 Google Colab 中直接运行，同时也兼容本地 Jupyter Notebook 环境。只需确保 Python 3.x 与相关库已正确安装，即可在本地复现全部流程与输出结果。
   
 ## Lessons Learned 教学亮点
 
 - How to group and bin continuous variables using pd.cut()
-  * 如何对连续变量进行分组   
+    * 如何对连续变量进行分组   
 - How to compute custom aggregation (e.g., no-show rate) in seaborn
-  * 如何自定义聚合计算（如爽约率）   
+    * 如何自定义聚合计算（如爽约率）   
 - How to style and export professional-quality static charts using Python
-  * 如何输出教学级别的高质量静态图像
+    * 如何输出教学级别的高质量静态图像
