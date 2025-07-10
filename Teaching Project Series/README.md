@@ -8,11 +8,11 @@ This is a collection of 5 lightweight, well-structured teaching projects designe
 
 | Project 项目编号 | Project Name 项目名称              | Technical Keywords 技术关键词     | 简要说明 Brief description |
 |------------------|----------------------------------|----------------------------------|------------------------------|
-| 01               | cleaning_and_plotting_pipeline<br>清洗与可视化教学 | pandas, seaborn | 基础数据清洗与静态图像可视化教学      |
-| 02               | sql_query_kpi_demo<br>商业指标查询教学 | SQL, Power BI | 商业场景中 KPI 指标的 SQL 查询与展示 |
-| 03               | movie_recommender_demo<br>协同过滤推荐教学 | pandas, scikit-learn | 用户协同过滤推荐系统原理与可视化演示   |
-| 04               | wine_quality_classification<br>逻辑回归分类教学 | pandas, statsmodels | 构建一个逻辑回归模型完成二分类预测任务 |
-| 05               | kpi_dashboard_report_with_tableau<br>图表教学 | pandas, Tableau | 使用 Tableau 构建 KPI 仪表板，展示财务指标与取消风险分析 |
+| 01               | cleaning_and_plotting_pipeline<br>清洗与可视化教学 | pandas, seaborn | Data cleaning & static plotting techniques for beginners<br>基础数据清洗与静态图像可视化教学 |
+| 02               | sql_query_kpi_demo<br>商业指标查询教学 | SQL, Power BI | Design and display KPI metrics with SQL queries and BI dashboards<br>商业场景中 KPI 指标的 SQL 查询与展示 |
+| 03               | movie_recommender_demo<br>协同过滤推荐教学 | pandas, scikit-learn | Build a user-based collaborative filtering recommender system<br>用户协同过滤推荐系统原理与可视化演示 |
+| 04               | wine_quality_classification<br>逻辑回归分类教学 | pandas, statsmodels | Train a logistic regression model for binary classification<br>构建一个逻辑回归模型完成二分类预测任务 |
+| 05               | kpi_dashboard_report_with_tableau<br>图表教学 | pandas, Tableau | Build a Tableau dashboard to visualize key financial KPIs and churn risk<br>使用 Tableau 构建 KPI 仪表板，展示财务指标与取消风险分析 |
 
 ## Technical Highlights 技术亮点
 
