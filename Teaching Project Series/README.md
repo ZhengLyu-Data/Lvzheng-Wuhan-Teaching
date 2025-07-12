@@ -24,8 +24,10 @@ This is a collection of 5 lightweight, well-structured teaching projects designe
   * 可直接演示的教学型 Python / SQL 脚本
 - Data visualizations in Power BI or Tableau
   * 配套的 Power BI 或 Tableau 图表文件
-- Engineering-style pipeline diagram
-  * 工程化风格的数据流程图展示模块逻辑
+- Each teaching projects show Engineering-style pipeline diagram
+  * 每个教学项目体现工程化风格的数据流程图的模块逻辑
+- Visualization tools include Tableau, Power BI, Metabase, Seaborn, Plotly, Apache Spark and WordCloud
+  * 可视化工具涵盖 Tableau、Power BI、Metabase、Seaborn、Plotly、Apache Spark、WordCloud 等
 - Well-structured and reproducible code
   * 结构清晰、可复现的教学代码，适用于课堂讲解与技术面试
 - All projects based on real Kaggle datasets
