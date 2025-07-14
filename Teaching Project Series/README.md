@@ -13,6 +13,7 @@ This is a collection of 5 lightweight, well-structured teaching projects designe
 | 03               | movie_recommender_demo<br>协同过滤推荐教学 | pandas, scikit-learn | Build a user-based collaborative filtering recommender system<br>用户协同过滤推荐系统原理与可视化演示 |
 | 04               | wine_quality_classification<br>逻辑回归分类教学 | pandas, statsmodels | Train a logistic regression model for binary classification<br>构建一个逻辑回归模型完成二分类预测任务 |
 | 05               | kpi_dashboard_report_with_tableau<br>图表教学 | pandas, Tableau | Build a Tableau dashboard to visualize key financial KPIs and churn risk<br>使用 Tableau 构建 KPI 仪表板，展示财务指标与取消风险分析 |
+| 06               | finereport_visual_demo<br>帆软可视化教学 | Finereport, Excel | FineReport visualization techniques for reporting scenarios<br>帆软可视化教学：使用国产 BI 工具制作基础业务报表 ｜
 
 ## Technical Highlights 技术亮点
 
