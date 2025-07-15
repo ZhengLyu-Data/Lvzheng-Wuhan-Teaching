@@ -27,8 +27,8 @@ This is a collection of 6 lightweight, well-structured teaching projects designe
   * 配套的 Power BI 或 Tableau 图表文件
 - Each teaching projects show Engineering-style pipeline diagram
   * 每个教学项目体现工程化风格的数据流程图的模块逻辑
-- Visualization tools include Tableau, Power BI, Sickit-learn, Seaborn, Statsmodels, Finereport
-  * 可视化工具涵盖 Tableau、Power BI、Sickit-learn, Seaborn, Statsmodels, 帆软可视化等
+- Visualization tools include Tableau, Power BI, Sickit-learn, Seaborn, Statsmodels, Excel, Finereport
+  * 可视化工具涵盖 Tableau、Power BI、Sickit-learn, Seaborn, Statsmodels, Excel, 帆软可视化等
 - Well-structured and reproducible code
   * 结构清晰、可复现的教学代码，适用于课堂讲解与技术面试
 - All projects based on real Kaggle datasets
